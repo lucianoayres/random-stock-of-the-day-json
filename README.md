@@ -2,7 +2,7 @@
 
 **Random Stock of the Day JSON** provides a daily random stock ticker from the Brazilian stock exchange (B3) in JSON format.
 
-### Description
+### How It Works
 
 Each day, this repository features a JSON file named `b3-ticker.json` containing a random stock ticker from the B3 stock exchange. The format of the JSON file is as follows:
 
