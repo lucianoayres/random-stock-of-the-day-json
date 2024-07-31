@@ -14,8 +14,8 @@ env:
     REPO_URL: "https://github.com/lucianoayres/rjip.git"
     REPO_DIR: "rjip"
     UTIL_BINARY_PATH: "rjip/dist/rjip"
-    LAST_PICKS_FILE: "b3-last_picks.json"
-    ITEM_JSON_FILE: "b3-ticker.json"
+    LAST_PICKS_FILE: "b3_last_picks.json"
+    ITEM_JSON_FILE: "b3_ticker.json"
     JSON_COMPARISON_PROPERTY: "ticker"
 
 jobs:
