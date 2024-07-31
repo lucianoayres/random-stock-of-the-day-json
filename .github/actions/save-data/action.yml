@@ -1,4 +1,4 @@
-name: Store Data
+name: Save Data
 
 description: Runs the rJip CLI to pick a random item from the JSON, save it, and handle the output.
 

@@ -3,6 +3,8 @@ name: Get Random Stock
 on:
     schedule:
         - cron: "43 2 * * *" # Run every day at 2:43 AM UTC
+    # Allows to run this workflow manually from the Actions tab
+    workflow_dispatch:
 
 permissions:
     contents: write # Allow workflow to push changes
@@ -14,8 +16,8 @@ env:
     REPO_URL: "https://github.com/lucianoayres/rjip.git"
     REPO_DIR: "rjip"
     UTIL_BINARY_PATH: "rjip/dist/rjip"
-    LAST_PICKS_FILE: "b3_last_picks.json"
-    ITEM_JSON_FILE: "b3_ticker.json"
+    LAST_PICKS_FILE: "b3-last-picks.json"
+    ITEM_JSON_FILE: "b3-ticker.json"
     JSON_COMPARISON_PROPERTY: "ticker"
 
 jobs:
@@ -27,7 +29,7 @@ jobs:
               uses: actions/checkout@v4
 
             - name: Download data.json
-              uses: ./.github/actions/download-data
+              uses: ./.github/actions/fetch-data
               with:
                   data_json_url: ${{ env.DATA_JSON_URL }}
                   data_json_file: ${{ env.DATA_JSON_FILE }}
@@ -39,7 +41,7 @@ jobs:
                   repo_dir: ${{ env.REPO_DIR }}
 
             - name: Run rJip CLI to pick a random item from the JSON, save it and handle output
-              uses: ./.github/actions/store-data
+              uses: ./.github/actions/save-data
               with:
                   data_json_file: ${{ env.DATA_JSON_FILE }}
                   last_picks_file: ${{ env.LAST_PICKS_FILE }}

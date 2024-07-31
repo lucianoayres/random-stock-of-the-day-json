@@ -1,4 +1,4 @@
-name: Download Data
+name: Fetch Data
 
 description: Downloads a JSON file from a specified URL.
 
