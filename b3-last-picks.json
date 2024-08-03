@@ -10,5 +10,9 @@
     {
         "ticker": "ANIM",
         "name": "ANIMA"
+    },
+    {
+        "ticker": "FIQE",
+        "name": "UNIFIQUE"
     }
 ]
