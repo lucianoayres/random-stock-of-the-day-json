@@ -14,5 +14,9 @@
     {
         "ticker": "FIQE",
         "name": "UNIFIQUE"
+    },
+    {
+        "ticker": "TXRX",
+        "name": "TEX RENAUX"
     }
 ]
