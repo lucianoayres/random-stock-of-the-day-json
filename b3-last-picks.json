@@ -18,5 +18,9 @@
     {
         "ticker": "TXRX",
         "name": "TEX RENAUX"
+    },
+    {
+        "ticker": "MNDL",
+        "name": "MUNDIAL"
     }
 ]
