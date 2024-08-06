@@ -22,5 +22,9 @@
     {
         "ticker": "MNDL",
         "name": "MUNDIAL"
+    },
+    {
+        "ticker": "TEGA",
+        "name": "TEGRA INCORP"
     }
 ]
