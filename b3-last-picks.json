@@ -26,5 +26,9 @@
     {
         "ticker": "TEGA",
         "name": "TEGRA INCORP"
+    },
+    {
+        "ticker": "AZUL",
+        "name": "AZUL"
     }
 ]
