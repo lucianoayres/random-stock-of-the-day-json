@@ -2,5 +2,9 @@
     {
         "ticker": "LUPA",
         "name": "LUPATECH"
+    },
+    {
+        "ticker": "NGRD",
+        "name": "NEOGRID"
     }
 ]
