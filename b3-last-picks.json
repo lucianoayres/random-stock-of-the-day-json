@@ -38,5 +38,9 @@
     {
         "ticker": "QUSW",
         "name": "QUALITY SOFT"
+    },
+    {
+        "ticker": "GUAR",
+        "name": "GUARARAPES"
     }
 ]
