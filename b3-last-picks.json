@@ -1,6 +1,46 @@
 [
     {
-        "ticker": "SBSP",
-        "name": "SABESP"
+        "ticker": "RAIL",
+        "name": "RUMO S.A."
+    },
+    {
+        "ticker": "CTCA",
+        "name": "CTC S.A."
+    },
+    {
+        "ticker": "ANIM",
+        "name": "ANIMA"
+    },
+    {
+        "ticker": "FIQE",
+        "name": "UNIFIQUE"
+    },
+    {
+        "ticker": "TXRX",
+        "name": "TEX RENAUX"
+    },
+    {
+        "ticker": "MNDL",
+        "name": "MUNDIAL"
+    },
+    {
+        "ticker": "TEGA",
+        "name": "TEGRA INCORP"
+    },
+    {
+        "ticker": "AZUL",
+        "name": "AZUL"
+    },
+    {
+        "ticker": "ESTR",
+        "name": "ESTRELA"
+    },
+    {
+        "ticker": "QUSW",
+        "name": "QUALITY SOFT"
+    },
+    {
+        "ticker": "GUAR",
+        "name": "GUARARAPES"
     }
 ]
