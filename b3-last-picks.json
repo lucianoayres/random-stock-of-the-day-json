@@ -18,5 +18,9 @@
     {
         "ticker": "CTNM",
         "name": "COTEMINAS"
+    },
+    {
+        "ticker": "VSPT",
+        "name": "FER C ATLANT"
     }
 ]
