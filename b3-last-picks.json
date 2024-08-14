@@ -26,5 +26,9 @@
     {
         "ticker": "AZEV",
         "name": "AZEVEDO"
+    },
+    {
+        "ticker": "TOTS",
+        "name": "TOTVS"
     }
 ]
