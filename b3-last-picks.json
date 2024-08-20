@@ -50,5 +50,9 @@
     {
         "ticker": "MNPR",
         "name": "MINUPAR"
+    },
+    {
+        "ticker": "ECOR",
+        "name": "ECORODOVIAS"
     }
 ]
