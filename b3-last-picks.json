@@ -54,5 +54,9 @@
     {
         "ticker": "ECOR",
         "name": "ECORODOVIAS"
+    },
+    {
+        "ticker": "ALPK",
+        "name": "ESTAPAR"
     }
 ]
