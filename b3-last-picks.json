@@ -74,5 +74,9 @@
     {
         "ticker": "BEEF",
         "name": "MINERVA"
+    },
+    {
+        "ticker": "SBSP",
+        "name": "SABESP"
     }
 ]
