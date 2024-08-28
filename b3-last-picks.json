@@ -82,5 +82,9 @@
     {
         "ticker": "CRIV",
         "name": "ALFA FINANC"
+    },
+    {
+        "ticker": "SLCE",
+        "name": "SLC AGRICOLA"
     }
 ]
