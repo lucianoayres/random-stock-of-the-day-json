@@ -90,5 +90,9 @@
     {
         "ticker": "CAML",
         "name": "CAMIL"
+    },
+    {
+        "ticker": "GPAR",
+        "name": "CELGPAR"
     }
 ]
