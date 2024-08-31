@@ -94,5 +94,9 @@
     {
         "ticker": "GPAR",
         "name": "CELGPAR"
+    },
+    {
+        "ticker": "JBSS",
+        "name": "JBS"
     }
 ]
