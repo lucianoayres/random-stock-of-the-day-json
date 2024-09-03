@@ -106,5 +106,9 @@
     {
         "ticker": "DASA",
         "name": "DASA"
+    },
+    {
+        "ticker": "CESP",
+        "name": "CESP"
     }
 ]
