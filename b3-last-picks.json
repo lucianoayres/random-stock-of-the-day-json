@@ -114,5 +114,9 @@
     {
         "ticker": "AFLT",
         "name": "AFLUENTE T"
+    },
+    {
+        "ticker": "LAVV",
+        "name": "LAVVI"
     }
 ]
