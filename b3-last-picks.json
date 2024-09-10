@@ -134,5 +134,9 @@
     {
         "ticker": "CGRA",
         "name": "GRAZZIOTIN"
+    },
+    {
+        "ticker": "COCE",
+        "name": "COELCE"
     }
 ]
