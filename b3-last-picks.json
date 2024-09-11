@@ -138,5 +138,9 @@
     {
         "ticker": "COCE",
         "name": "COELCE"
+    },
+    {
+        "ticker": "ZAMP",
+        "name": "ZAMP S.A."
     }
 ]
