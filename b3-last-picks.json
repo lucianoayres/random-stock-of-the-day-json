@@ -162,5 +162,9 @@
     {
         "ticker": "DMVF",
         "name": "D1000VFARMA"
+    },
+    {
+        "ticker": "WEST",
+        "name": "WESTWING"
     }
 ]
