@@ -166,5 +166,9 @@
     {
         "ticker": "WEST",
         "name": "WESTWING"
+    },
+    {
+        "ticker": "QUAL",
+        "name": "QUALICORP"
     }
 ]
