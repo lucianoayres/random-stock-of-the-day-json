@@ -170,5 +170,9 @@
     {
         "ticker": "QUAL",
         "name": "QUALICORP"
+    },
+    {
+        "ticker": "EQTL",
+        "name": "EQUATORIAL"
     }
 ]
