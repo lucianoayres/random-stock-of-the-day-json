@@ -194,5 +194,9 @@
     {
         "ticker": "CTCA",
         "name": "CTC S.A."
+    },
+    {
+        "ticker": "RNEW",
+        "name": "RENOVA"
     }
 ]
