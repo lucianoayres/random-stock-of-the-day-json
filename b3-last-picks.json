@@ -206,5 +206,9 @@
     {
         "ticker": "NTCO",
         "name": "GRUPO NATURA"
+    },
+    {
+        "ticker": "AALR",
+        "name": "ALLIAR"
     }
 ]
