@@ -210,5 +210,9 @@
     {
         "ticker": "AALR",
         "name": "ALLIAR"
+    },
+    {
+        "ticker": "ODPV",
+        "name": "ODONTOPREV"
     }
 ]
