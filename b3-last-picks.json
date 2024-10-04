@@ -230,5 +230,9 @@
     {
         "ticker": "TTEN",
         "name": "3TENTOS"
+    },
+    {
+        "ticker": "HBRE",
+        "name": "HBR REALTY"
     }
 ]
