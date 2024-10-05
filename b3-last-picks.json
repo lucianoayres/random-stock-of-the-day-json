@@ -234,5 +234,9 @@
     {
         "ticker": "HBRE",
         "name": "HBR REALTY"
+    },
+    {
+        "ticker": "DOTZ",
+        "name": "DOTZ SA"
     }
 ]
