@@ -238,5 +238,9 @@
     {
         "ticker": "DOTZ",
         "name": "DOTZ SA"
+    },
+    {
+        "ticker": "CLSC",
+        "name": "CELESC"
     }
 ]
