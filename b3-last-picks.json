@@ -266,5 +266,9 @@
     {
         "ticker": "NRTQ",
         "name": "NORTCQUIMICA"
+    },
+    {
+        "ticker": "CPRE",
+        "name": "CPFL RENOVAV"
     }
 ]
