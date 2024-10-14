@@ -270,5 +270,9 @@
     {
         "ticker": "CPRE",
         "name": "CPFL RENOVAV"
+    },
+    {
+        "ticker": "DEXP",
+        "name": "DEXXOS PAR"
     }
 ]
