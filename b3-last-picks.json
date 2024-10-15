@@ -274,5 +274,9 @@
     {
         "ticker": "DEXP",
         "name": "DEXXOS PAR"
+    },
+    {
+        "ticker": "LOGG",
+        "name": "LOG COM PROP"
     }
 ]
