@@ -278,5 +278,9 @@
     {
         "ticker": "LOGG",
         "name": "LOG COM PROP"
+    },
+    {
+        "ticker": "MTIG",
+        "name": "METAL IGUACU"
     }
 ]
