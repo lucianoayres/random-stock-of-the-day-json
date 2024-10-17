@@ -282,5 +282,9 @@
     {
         "ticker": "MTIG",
         "name": "METAL IGUACU"
+    },
+    {
+        "ticker": "BRQB",
+        "name": "BRQ"
     }
 ]
