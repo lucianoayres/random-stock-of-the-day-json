@@ -298,5 +298,9 @@
     {
         "ticker": "VVEO",
         "name": "VIVEO"
+    },
+    {
+        "ticker": "PDTC",
+        "name": "PADTEC"
     }
 ]
