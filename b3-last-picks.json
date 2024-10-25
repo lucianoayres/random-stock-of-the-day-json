@@ -314,5 +314,9 @@
     {
         "ticker": "BMEB",
         "name": "MERCANTIL"
+    },
+    {
+        "ticker": "SULA",
+        "name": "SUL AMERICA"
     }
 ]
