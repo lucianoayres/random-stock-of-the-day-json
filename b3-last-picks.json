@@ -318,5 +318,9 @@
     {
         "ticker": "SULA",
         "name": "SUL AMERICA"
+    },
+    {
+        "ticker": "VALE",
+        "name": "VALE"
     }
 ]
