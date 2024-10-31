@@ -338,5 +338,9 @@
     {
         "ticker": "BDLL",
         "name": "BARDELLA"
+    },
+    {
+        "ticker": "TGMA",
+        "name": "TEGMA"
     }
 ]
