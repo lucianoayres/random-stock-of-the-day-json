@@ -346,5 +346,9 @@
     {
         "ticker": "CSMG",
         "name": "COPASA"
+    },
+    {
+        "ticker": "IVPR",
+        "name": "INVEPAR"
     }
 ]
