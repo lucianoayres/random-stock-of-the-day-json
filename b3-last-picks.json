@@ -350,5 +350,9 @@
     {
         "ticker": "IVPR",
         "name": "INVEPAR"
+    },
+    {
+        "ticker": "TEGA",
+        "name": "TEGRA INCORP"
     }
 ]
