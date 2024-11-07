@@ -366,5 +366,9 @@
     {
         "ticker": "BMGB",
         "name": "BANCO BMG"
+    },
+    {
+        "ticker": "CLSA",
+        "name": "CLEARSALE"
     }
 ]
