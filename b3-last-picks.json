@@ -370,5 +370,9 @@
     {
         "ticker": "CLSA",
         "name": "CLEARSALE"
+    },
+    {
+        "ticker": "CEDO",
+        "name": "CEDRO"
     }
 ]
