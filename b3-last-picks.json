@@ -374,5 +374,9 @@
     {
         "ticker": "CEDO",
         "name": "CEDRO"
+    },
+    {
+        "ticker": "ECPR",
+        "name": "ENCORPAR"
     }
 ]
