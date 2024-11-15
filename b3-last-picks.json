@@ -398,5 +398,9 @@
     {
         "ticker": "MWET",
         "name": "WETZEL S/A"
+    },
+    {
+        "ticker": "ALLD",
+        "name": "ALLIED"
     }
 ]
