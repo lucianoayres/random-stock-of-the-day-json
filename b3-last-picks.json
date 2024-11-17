@@ -406,5 +406,9 @@
     {
         "ticker": "BOBR",
         "name": "BOMBRIL"
+    },
+    {
+        "ticker": "OPCT",
+        "name": "OCEANPACT"
     }
 ]
