@@ -414,5 +414,9 @@
     {
         "ticker": "PSSA",
         "name": "PORTO SEGURO"
+    },
+    {
+        "ticker": "HBTS",
+        "name": "HABITASUL"
     }
 ]
