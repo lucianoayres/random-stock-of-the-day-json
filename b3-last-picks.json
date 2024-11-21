@@ -422,5 +422,9 @@
     {
         "ticker": "PGMN",
         "name": "PAGUE MENOS"
+    },
+    {
+        "ticker": "TELB",
+        "name": "TELEBRAS"
     }
 ]
