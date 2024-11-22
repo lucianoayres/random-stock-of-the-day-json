@@ -426,5 +426,9 @@
     {
         "ticker": "TELB",
         "name": "TELEBRAS"
+    },
+    {
+        "ticker": "CEPE",
+        "name": "CELPE"
     }
 ]
