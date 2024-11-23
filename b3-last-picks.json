@@ -430,5 +430,9 @@
     {
         "ticker": "CEPE",
         "name": "CELPE"
+    },
+    {
+        "ticker": "BRFS",
+        "name": "BRF SA"
     }
 ]
