@@ -438,5 +438,9 @@
     {
         "ticker": "GETT",
         "name": "GETNET BR"
+    },
+    {
+        "ticker": "NINJ",
+        "name": "GETNINJAS"
     }
 ]
