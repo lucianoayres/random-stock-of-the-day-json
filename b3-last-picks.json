@@ -446,5 +446,9 @@
     {
         "ticker": "MOVI",
         "name": "MOVIDA"
+    },
+    {
+        "ticker": "ENGI",
+        "name": "ENERGISA"
     }
 ]
