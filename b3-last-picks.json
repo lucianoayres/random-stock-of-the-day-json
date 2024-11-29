@@ -454,5 +454,9 @@
     {
         "ticker": "VULC",
         "name": "VULCABRAS"
+    },
+    {
+        "ticker": "INTB",
+        "name": "INTELBRAS"
     }
 ]
