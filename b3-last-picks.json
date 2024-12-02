@@ -466,5 +466,9 @@
     {
         "ticker": "POMO",
         "name": "MARCOPOLO"
+    },
+    {
+        "ticker": "TIMS",
+        "name": "TIM"
     }
 ]
