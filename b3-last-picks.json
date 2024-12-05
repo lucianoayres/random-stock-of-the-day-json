@@ -478,5 +478,9 @@
     {
         "ticker": "JSLG",
         "name": "JSL"
+    },
+    {
+        "ticker": "GFSA",
+        "name": "GAFISA"
     }
 ]
