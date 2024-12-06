@@ -482,5 +482,9 @@
     {
         "ticker": "GFSA",
         "name": "GAFISA"
+    },
+    {
+        "ticker": "PEAB",
+        "name": "PAR AL BAHIA"
     }
 ]
