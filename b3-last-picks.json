@@ -486,5 +486,9 @@
     {
         "ticker": "PEAB",
         "name": "PAR AL BAHIA"
+    },
+    {
+        "ticker": "PTBL",
+        "name": "PORTOBELLO"
     }
 ]
