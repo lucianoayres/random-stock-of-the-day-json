@@ -490,5 +490,9 @@
     {
         "ticker": "PTBL",
         "name": "PORTOBELLO"
+    },
+    {
+        "ticker": "VIVA",
+        "name": "VIVARA S.A."
     }
 ]
