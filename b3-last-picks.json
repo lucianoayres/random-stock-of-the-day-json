@@ -494,5 +494,9 @@
     {
         "ticker": "VIVA",
         "name": "VIVARA S.A."
+    },
+    {
+        "ticker": "MRVE",
+        "name": "MRV"
     }
 ]
