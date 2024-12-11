@@ -502,5 +502,9 @@
     {
         "ticker": "CACO",
         "name": "CACONDE PART"
+    },
+    {
+        "ticker": "BPAR",
+        "name": "BANPARA"
     }
 ]
