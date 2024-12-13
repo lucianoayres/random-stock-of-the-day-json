@@ -510,5 +510,9 @@
     {
         "ticker": "RENT",
         "name": "LOCALIZA"
+    },
+    {
+        "ticker": "BRAP",
+        "name": "BRADESPAR"
     }
 ]
