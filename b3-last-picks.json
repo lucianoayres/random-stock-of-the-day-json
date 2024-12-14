@@ -514,5 +514,9 @@
     {
         "ticker": "BRAP",
         "name": "BRADESPAR"
+    },
+    {
+        "ticker": "SRNA",
+        "name": "SERENA"
     }
 ]
