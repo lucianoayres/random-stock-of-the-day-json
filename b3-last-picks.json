@@ -522,5 +522,9 @@
     {
         "ticker": "GUAR",
         "name": "GUARARAPES"
+    },
+    {
+        "ticker": "EQPA",
+        "name": "EQTL PARA"
     }
 ]
