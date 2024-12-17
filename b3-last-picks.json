@@ -526,5 +526,9 @@
     {
         "ticker": "EQPA",
         "name": "EQTL PARA"
+    },
+    {
+        "ticker": "EALT",
+        "name": "ACO ALTONA"
     }
 ]
