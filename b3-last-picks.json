@@ -530,5 +530,9 @@
     {
         "ticker": "EALT",
         "name": "ACO ALTONA"
+    },
+    {
+        "ticker": "KLBN",
+        "name": "KLABIN S/A"
     }
 ]
