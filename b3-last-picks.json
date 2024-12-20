@@ -538,5 +538,9 @@
     {
         "ticker": "RSUL",
         "name": "RIOSULENSE"
+    },
+    {
+        "ticker": "DOHL",
+        "name": "DOHLER"
     }
 ]
