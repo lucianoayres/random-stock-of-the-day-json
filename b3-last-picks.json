@@ -542,5 +542,9 @@
     {
         "ticker": "DOHL",
         "name": "DOHLER"
+    },
+    {
+        "ticker": "BPAN",
+        "name": "BANCO PAN"
     }
 ]
