@@ -566,5 +566,9 @@
     {
         "ticker": "VIVR",
         "name": "VIVER"
+    },
+    {
+        "ticker": "GPIV",
+        "name": "GP INVEST"
     }
 ]
