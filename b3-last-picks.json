@@ -570,5 +570,9 @@
     {
         "ticker": "GPIV",
         "name": "GP INVEST"
+    },
+    {
+        "ticker": "RPAD",
+        "name": "ALFA HOLDING"
     }
 ]
