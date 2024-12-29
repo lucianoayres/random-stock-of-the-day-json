@@ -574,5 +574,9 @@
     {
         "ticker": "RPAD",
         "name": "ALFA HOLDING"
+    },
+    {
+        "ticker": "JBDU",
+        "name": "B TECH EQI"
     }
 ]
