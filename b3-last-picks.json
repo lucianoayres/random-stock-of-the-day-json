@@ -582,5 +582,9 @@
     {
         "ticker": "RAIZ",
         "name": "RAIZEN"
+    },
+    {
+        "ticker": "BAZA",
+        "name": "AMAZONIA"
     }
 ]
