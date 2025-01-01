@@ -586,5 +586,9 @@
     {
         "ticker": "BAZA",
         "name": "AMAZONIA"
+    },
+    {
+        "ticker": "EGIE",
+        "name": "ENGIE BRASIL"
     }
 ]
