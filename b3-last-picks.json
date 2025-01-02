@@ -590,5 +590,9 @@
     {
         "ticker": "EGIE",
         "name": "ENGIE BRASIL"
+    },
+    {
+        "ticker": "ATOM",
+        "name": "ATOMPAR"
     }
 ]
