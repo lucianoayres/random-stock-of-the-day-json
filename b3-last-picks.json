@@ -598,5 +598,9 @@
     {
         "ticker": "ELPL",
         "name": "ELETROPAULO"
+    },
+    {
+        "ticker": "GRND",
+        "name": "GRENDENE"
     }
 ]
