@@ -602,5 +602,9 @@
     {
         "ticker": "GRND",
         "name": "GRENDENE"
+    },
+    {
+        "ticker": "LREN",
+        "name": "LOJAS RENNER"
     }
 ]
