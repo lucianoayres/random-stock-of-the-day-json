@@ -610,5 +610,9 @@
     {
         "ticker": "MNDL",
         "name": "MUNDIAL"
+    },
+    {
+        "ticker": "AHEB",
+        "name": "SPTURIS"
     }
 ]
