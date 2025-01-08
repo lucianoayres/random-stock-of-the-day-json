@@ -614,5 +614,9 @@
     {
         "ticker": "AHEB",
         "name": "SPTURIS"
+    },
+    {
+        "ticker": "CRPG",
+        "name": "CRISTAL"
     }
 ]
