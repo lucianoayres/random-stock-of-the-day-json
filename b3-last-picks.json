@@ -626,5 +626,9 @@
     {
         "ticker": "CIEL",
         "name": "CIELO"
+    },
+    {
+        "ticker": "BRBI",
+        "name": "BR PARTNERS"
     }
 ]
