@@ -638,5 +638,9 @@
     {
         "ticker": "MSRO",
         "name": "MAESTROLOC"
+    },
+    {
+        "ticker": "PRNR",
+        "name": "PRINER"
     }
 ]
