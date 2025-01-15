@@ -642,5 +642,9 @@
     {
         "ticker": "PRNR",
         "name": "PRINER"
+    },
+    {
+        "ticker": "CTSA",
+        "name": "SANTANENSE"
     }
 ]
