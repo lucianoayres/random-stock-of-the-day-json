@@ -646,5 +646,9 @@
     {
         "ticker": "CTSA",
         "name": "SANTANENSE"
+    },
+    {
+        "ticker": "DMMO",
+        "name": "DOMMO"
     }
 ]
