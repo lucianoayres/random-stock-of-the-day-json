@@ -650,5 +650,9 @@
     {
         "ticker": "DMMO",
         "name": "DOMMO"
+    },
+    {
+        "ticker": "CRDE",
+        "name": "FICA"
     }
 ]
