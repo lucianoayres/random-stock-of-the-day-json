@@ -654,5 +654,9 @@
     {
         "ticker": "CRDE",
         "name": "FICA"
+    },
+    {
+        "ticker": "ITSA",
+        "name": "ITAUSA"
     }
 ]
