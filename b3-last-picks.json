@@ -662,5 +662,9 @@
     {
         "ticker": "MULT",
         "name": "MULTIPLAN"
+    },
+    {
+        "ticker": "SLED",
+        "name": "SARAIVA LIVR"
     }
 ]
