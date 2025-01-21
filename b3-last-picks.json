@@ -666,5 +666,9 @@
     {
         "ticker": "SLED",
         "name": "SARAIVA LIVR"
+    },
+    {
+        "ticker": "EEEL",
+        "name": "CEEE-T"
     }
 ]
