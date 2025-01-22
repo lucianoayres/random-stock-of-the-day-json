@@ -670,5 +670,9 @@
     {
         "ticker": "EEEL",
         "name": "CEEE-T"
+    },
+    {
+        "ticker": "SANB",
+        "name": "SANTANDER BR"
     }
 ]
