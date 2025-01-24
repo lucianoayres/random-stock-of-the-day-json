@@ -678,5 +678,9 @@
     {
         "ticker": "APER",
         "name": "ALPER S.A."
+    },
+    {
+        "ticker": "SOJA",
+        "name": "BOA SAFRA"
     }
 ]
