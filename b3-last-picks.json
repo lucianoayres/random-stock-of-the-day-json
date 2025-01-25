@@ -682,5 +682,9 @@
     {
         "ticker": "SOJA",
         "name": "BOA SAFRA"
+    },
+    {
+        "ticker": "USIM",
+        "name": "USIMINAS"
     }
 ]
