@@ -686,5 +686,9 @@
     {
         "ticker": "USIM",
         "name": "USIMINAS"
+    },
+    {
+        "ticker": "ASAI",
+        "name": "ASSAI"
     }
 ]
