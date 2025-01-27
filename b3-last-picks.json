@@ -690,5 +690,9 @@
     {
         "ticker": "ASAI",
         "name": "ASSAI"
+    },
+    {
+        "ticker": "CSNA",
+        "name": "SID NACIONAL"
     }
 ]
