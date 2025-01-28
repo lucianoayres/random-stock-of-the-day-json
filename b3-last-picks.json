@@ -694,5 +694,9 @@
     {
         "ticker": "CSNA",
         "name": "SID NACIONAL"
+    },
+    {
+        "ticker": "AERI",
+        "name": "AERIS"
     }
 ]
