@@ -698,5 +698,9 @@
     {
         "ticker": "AERI",
         "name": "AERIS"
+    },
+    {
+        "ticker": "STBP",
+        "name": "SANTOS BRP"
     }
 ]
