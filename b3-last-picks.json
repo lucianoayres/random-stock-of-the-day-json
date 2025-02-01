@@ -710,5 +710,9 @@
     {
         "ticker": "CSAN",
         "name": "COSAN"
+    },
+    {
+        "ticker": "EKTR",
+        "name": "ELEKTRO"
     }
 ]
