@@ -714,5 +714,9 @@
     {
         "ticker": "EKTR",
         "name": "ELEKTRO"
+    },
+    {
+        "ticker": "TESA",
+        "name": "TERRA SANTA"
     }
 ]
