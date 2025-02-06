@@ -730,5 +730,9 @@
     {
         "ticker": "GEPA",
         "name": "GER PARANAP"
+    },
+    {
+        "ticker": "STKF",
+        "name": "STATKRAFT"
     }
 ]
