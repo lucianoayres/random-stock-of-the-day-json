@@ -742,5 +742,9 @@
     {
         "ticker": "GGPS",
         "name": "GPS"
+    },
+    {
+        "ticker": "CXSE",
+        "name": "CAIXA SEGURI"
     }
 ]
