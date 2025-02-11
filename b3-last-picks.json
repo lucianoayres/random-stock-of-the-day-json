@@ -750,5 +750,9 @@
     {
         "ticker": "COGN",
         "name": "COGNA ON"
+    },
+    {
+        "ticker": "ALOS",
+        "name": "ALLOS"
     }
 ]
