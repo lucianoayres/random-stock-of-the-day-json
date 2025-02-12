@@ -754,5 +754,9 @@
     {
         "ticker": "ALOS",
         "name": "ALLOS"
+    },
+    {
+        "ticker": "IGSN",
+        "name": "IGUA SA"
     }
 ]
