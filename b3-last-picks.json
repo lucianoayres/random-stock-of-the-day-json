@@ -758,5 +758,9 @@
     {
         "ticker": "IGSN",
         "name": "IGUA SA"
+    },
+    {
+        "ticker": "LOGN",
+        "name": "LOG-IN"
     }
 ]
