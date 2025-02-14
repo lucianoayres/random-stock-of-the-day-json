@@ -762,5 +762,9 @@
     {
         "ticker": "LOGN",
         "name": "LOG-IN"
+    },
+    {
+        "ticker": "FIQE",
+        "name": "UNIFIQUE"
     }
 ]
