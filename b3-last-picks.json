@@ -766,5 +766,9 @@
     {
         "ticker": "FIQE",
         "name": "UNIFIQUE"
+    },
+    {
+        "ticker": "RSID",
+        "name": "ROSSI RESID"
     }
 ]
