@@ -774,5 +774,9 @@
     {
         "ticker": "CEAB",
         "name": "CEA MODAS"
+    },
+    {
+        "ticker": "DIRR",
+        "name": "DIRECIONAL"
     }
 ]
