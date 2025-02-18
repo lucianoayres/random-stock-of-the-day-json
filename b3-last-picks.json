@@ -778,5 +778,9 @@
     {
         "ticker": "DIRR",
         "name": "DIRECIONAL"
+    },
+    {
+        "ticker": "HETA",
+        "name": "HERCULES"
     }
 ]
