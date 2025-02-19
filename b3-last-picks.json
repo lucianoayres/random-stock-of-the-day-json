@@ -782,5 +782,9 @@
     {
         "ticker": "HETA",
         "name": "HERCULES"
+    },
+    {
+        "ticker": "NEMO",
+        "name": "SUZANO HOLD"
     }
 ]
