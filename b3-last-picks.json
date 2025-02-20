@@ -786,5 +786,9 @@
     {
         "ticker": "NEMO",
         "name": "SUZANO HOLD"
+    },
+    {
+        "ticker": "WHRL",
+        "name": "WHIRLPOOL"
     }
 ]
