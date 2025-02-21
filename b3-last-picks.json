@@ -790,5 +790,9 @@
     {
         "ticker": "WHRL",
         "name": "WHIRLPOOL"
+    },
+    {
+        "ticker": "BRIT",
+        "name": "BRISANET"
     }
 ]
