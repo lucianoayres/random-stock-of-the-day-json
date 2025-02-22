@@ -794,5 +794,9 @@
     {
         "ticker": "BRIT",
         "name": "BRISANET"
+    },
+    {
+        "ticker": "LCAM",
+        "name": "LOCAMERICA"
     }
 ]
