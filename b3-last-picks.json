@@ -802,5 +802,9 @@
     {
         "ticker": "EVEN",
         "name": "EVEN"
+    },
+    {
+        "ticker": "PARD",
+        "name": "IHPARDINI"
     }
 ]
