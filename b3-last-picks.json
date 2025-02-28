@@ -818,5 +818,9 @@
     {
         "ticker": "IFCM",
         "name": "INFRACOMM"
+    },
+    {
+        "ticker": "BIOM",
+        "name": "BIOMM"
     }
 ]
