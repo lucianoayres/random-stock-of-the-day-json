@@ -826,5 +826,9 @@
     {
         "ticker": "TXRX",
         "name": "TEX RENAUX"
+    },
+    {
+        "ticker": "JHSF",
+        "name": "JHSF PART"
     }
 ]
