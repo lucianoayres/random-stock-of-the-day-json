@@ -830,5 +830,9 @@
     {
         "ticker": "JHSF",
         "name": "JHSF PART"
+    },
+    {
+        "ticker": "POSI",
+        "name": "POSITIVO TEC"
     }
 ]
