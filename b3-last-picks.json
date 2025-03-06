@@ -842,5 +842,9 @@
     {
         "ticker": "MGLU",
         "name": "MAGAZ LUIZA"
+    },
+    {
+        "ticker": "GGBR",
+        "name": "GERDAU"
     }
 ]
