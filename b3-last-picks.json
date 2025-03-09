@@ -854,5 +854,9 @@
     {
         "ticker": "BMKS",
         "name": "BIC MONARK"
+    },
+    {
+        "ticker": "HYPE",
+        "name": "HYPERA"
     }
 ]
