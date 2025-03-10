@@ -858,5 +858,9 @@
     {
         "ticker": "HYPE",
         "name": "HYPERA"
+    },
+    {
+        "ticker": "LIGT",
+        "name": "LIGHT S/A"
     }
 ]
