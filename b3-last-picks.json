@@ -866,5 +866,9 @@
     {
         "ticker": "NEOE",
         "name": "NEOENERGIA"
+    },
+    {
+        "ticker": "CEGR",
+        "name": "CEG"
     }
 ]
