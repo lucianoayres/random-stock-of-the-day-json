@@ -870,5 +870,9 @@
     {
         "ticker": "CEGR",
         "name": "CEG"
+    },
+    {
+        "ticker": "CTKA",
+        "name": "KARSTEN"
     }
 ]
