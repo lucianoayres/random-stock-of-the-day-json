@@ -874,5 +874,9 @@
     {
         "ticker": "CTKA",
         "name": "KARSTEN"
+    },
+    {
+        "ticker": "TUPY",
+        "name": "TUPY"
     }
 ]
