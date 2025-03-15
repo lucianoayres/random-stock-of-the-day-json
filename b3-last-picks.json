@@ -878,5 +878,9 @@
     {
         "ticker": "TUPY",
         "name": "TUPY"
+    },
+    {
+        "ticker": "IGBR",
+        "name": "IGB S/A"
     }
 ]
