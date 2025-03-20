@@ -898,5 +898,9 @@
     {
         "ticker": "RPMG",
         "name": "PET MANGUINH"
+    },
+    {
+        "ticker": "MEND",
+        "name": "MENDES JR"
     }
 ]
