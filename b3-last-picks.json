@@ -906,5 +906,9 @@
     {
         "ticker": "SEQL",
         "name": "SEQUOIA LOG"
+    },
+    {
+        "ticker": "ESPA",
+        "name": "ESPACOLASER"
     }
 ]
