@@ -910,5 +910,9 @@
     {
         "ticker": "ESPA",
         "name": "ESPACOLASER"
+    },
+    {
+        "ticker": "TCNO",
+        "name": "TECNOSOLO"
     }
 ]
