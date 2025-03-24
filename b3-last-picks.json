@@ -914,5 +914,9 @@
     {
         "ticker": "TCNO",
         "name": "TECNOSOLO"
+    },
+    {
+        "ticker": "CATA",
+        "name": "IND CATAGUAS"
     }
 ]
