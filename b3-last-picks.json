@@ -918,5 +918,9 @@
     {
         "ticker": "CATA",
         "name": "IND CATAGUAS"
+    },
+    {
+        "ticker": "RADL",
+        "name": "RAIADROGASIL"
     }
 ]
