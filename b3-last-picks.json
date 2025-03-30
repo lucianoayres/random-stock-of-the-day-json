@@ -938,5 +938,9 @@
     {
         "ticker": "PINE",
         "name": "PINE"
+    },
+    {
+        "ticker": "PFRM",
+        "name": "PROFARMA"
     }
 ]
