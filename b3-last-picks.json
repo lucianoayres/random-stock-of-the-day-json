@@ -942,5 +942,9 @@
     {
         "ticker": "PFRM",
         "name": "PROFARMA"
+    },
+    {
+        "ticker": "LAND",
+        "name": "TERRASANTAPA"
     }
 ]
