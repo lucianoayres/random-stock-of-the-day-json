@@ -946,5 +946,9 @@
     {
         "ticker": "LAND",
         "name": "TERRASANTAPA"
+    },
+    {
+        "ticker": "SMLS",
+        "name": "SMILES"
     }
 ]
