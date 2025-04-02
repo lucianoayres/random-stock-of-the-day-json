@@ -950,5 +950,9 @@
     {
         "ticker": "SMLS",
         "name": "SMILES"
+    },
+    {
+        "ticker": "BPAC",
+        "name": "BTGP BANCO"
     }
 ]
