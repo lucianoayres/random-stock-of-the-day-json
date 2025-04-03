@@ -954,5 +954,9 @@
     {
         "ticker": "BPAC",
         "name": "BTGP BANCO"
+    },
+    {
+        "ticker": "FRIO",
+        "name": "METALFRIO"
     }
 ]
