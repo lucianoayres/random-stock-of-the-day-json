@@ -958,5 +958,9 @@
     {
         "ticker": "FRIO",
         "name": "METALFRIO"
+    },
+    {
+        "ticker": "FRRN",
+        "name": "ALL NORTE"
     }
 ]
