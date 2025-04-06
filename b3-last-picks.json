@@ -966,5 +966,9 @@
     {
         "ticker": "INEP",
         "name": "INEPAR"
+    },
+    {
+        "ticker": "TAEE",
+        "name": "TAESA"
     }
 ]
