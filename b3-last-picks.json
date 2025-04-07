@@ -970,5 +970,9 @@
     {
         "ticker": "TAEE",
         "name": "TAESA"
+    },
+    {
+        "ticker": "RANI",
+        "name": "IRANI"
     }
 ]
