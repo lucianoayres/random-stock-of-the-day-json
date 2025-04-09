@@ -978,5 +978,9 @@
     {
         "ticker": "YDUQ",
         "name": "YDUQS PART"
+    },
+    {
+        "ticker": "FESA",
+        "name": "FERBASA"
     }
 ]
