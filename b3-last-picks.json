@@ -982,5 +982,9 @@
     {
         "ticker": "FESA",
         "name": "FERBASA"
+    },
+    {
+        "ticker": "NORD",
+        "name": "NORDON MET"
     }
 ]
