@@ -990,5 +990,9 @@
     {
         "ticker": "LEVE",
         "name": "METAL LEVE"
+    },
+    {
+        "ticker": "JFEN",
+        "name": "JOAO FORTES"
     }
 ]
