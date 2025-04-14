@@ -998,5 +998,9 @@
     {
         "ticker": "ENAT",
         "name": "ENAUTA PART"
+    },
+    {
+        "ticker": "CASH",
+        "name": "MELIUZ"
     }
 ]
