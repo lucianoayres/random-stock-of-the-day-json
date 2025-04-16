@@ -1006,5 +1006,9 @@
     {
         "ticker": "AURE",
         "name": "AUREN"
+    },
+    {
+        "ticker": "WIZC",
+        "name": "WIZ CO"
     }
 ]
