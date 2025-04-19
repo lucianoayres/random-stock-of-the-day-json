@@ -1018,5 +1018,9 @@
     {
         "ticker": "BRGE",
         "name": "ALFA CONSORC"
+    },
+    {
+        "ticker": "PATI",
+        "name": "PANATLANTICA"
     }
 ]
