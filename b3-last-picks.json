@@ -1022,5 +1022,9 @@
     {
         "ticker": "PATI",
         "name": "PANATLANTICA"
+    },
+    {
+        "ticker": "MODL",
+        "name": "MODALMAIS"
     }
 ]
