@@ -1034,5 +1034,9 @@
     {
         "ticker": "CEBR",
         "name": "CEB"
+    },
+    {
+        "ticker": "IGTI",
+        "name": "IGUATEMI S.A"
     }
 ]
