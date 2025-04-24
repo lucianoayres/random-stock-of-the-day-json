@@ -1038,5 +1038,9 @@
     {
         "ticker": "IGTI",
         "name": "IGUATEMI S.A"
+    },
+    {
+        "ticker": "POWE",
+        "name": "FOCUS ON"
     }
 ]
