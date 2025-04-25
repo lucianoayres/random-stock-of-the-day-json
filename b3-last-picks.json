@@ -1042,5 +1042,9 @@
     {
         "ticker": "POWE",
         "name": "FOCUS ON"
+    },
+    {
+        "ticker": "CPFE",
+        "name": "CPFL ENERGIA"
     }
 ]
