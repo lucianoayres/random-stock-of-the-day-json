@@ -1050,5 +1050,9 @@
     {
         "ticker": "TKNO",
         "name": "TEKNO"
+    },
+    {
+        "ticker": "TECN",
+        "name": "TECHNOS"
     }
 ]
