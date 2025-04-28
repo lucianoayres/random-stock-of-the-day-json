@@ -1054,5 +1054,9 @@
     {
         "ticker": "TECN",
         "name": "TECHNOS"
+    },
+    {
+        "ticker": "CSUD",
+        "name": "CSU DIGITAL"
     }
 ]
