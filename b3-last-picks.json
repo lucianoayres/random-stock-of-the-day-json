@@ -1058,5 +1058,9 @@
     {
         "ticker": "CSUD",
         "name": "CSU DIGITAL"
+    },
+    {
+        "ticker": "PDGR",
+        "name": "PDG REALT"
     }
 ]
