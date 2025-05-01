@@ -1066,5 +1066,9 @@
     {
         "ticker": "EZTC",
         "name": "EZTEC"
+    },
+    {
+        "ticker": "BRML",
+        "name": "BR MALLS PAR"
     }
 ]
