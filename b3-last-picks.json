@@ -1074,5 +1074,9 @@
     {
         "ticker": "MOAR",
         "name": "MONT ARANHA"
+    },
+    {
+        "ticker": "BSLI",
+        "name": "BRB BANCO"
     }
 ]
