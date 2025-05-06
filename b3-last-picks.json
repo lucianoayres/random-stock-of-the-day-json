@@ -1086,5 +1086,9 @@
     {
         "ticker": "CEED",
         "name": "CEEE-D"
+    },
+    {
+        "ticker": "ATMP",
+        "name": "ATMASA"
     }
 ]
