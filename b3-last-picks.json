@@ -1094,5 +1094,9 @@
     {
         "ticker": "MERC",
         "name": "MERC FINANC"
+    },
+    {
+        "ticker": "BRIV",
+        "name": "ALFA INVEST"
     }
 ]
