@@ -1098,5 +1098,9 @@
     {
         "ticker": "BRIV",
         "name": "ALFA INVEST"
+    },
+    {
+        "ticker": "TEND",
+        "name": "TENDA"
     }
 ]
