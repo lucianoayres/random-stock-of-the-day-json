@@ -1102,5 +1102,9 @@
     {
         "ticker": "TEND",
         "name": "TENDA"
+    },
+    {
+        "ticker": "CPLE",
+        "name": "COPEL"
     }
 ]
