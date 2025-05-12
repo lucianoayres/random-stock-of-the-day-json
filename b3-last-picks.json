@@ -1110,5 +1110,9 @@
     {
         "ticker": "PLAS",
         "name": "PLASCAR PART"
+    },
+    {
+        "ticker": "MRSA",
+        "name": "MRS LOGIST"
     }
 ]
