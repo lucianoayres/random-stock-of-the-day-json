@@ -1114,5 +1114,9 @@
     {
         "ticker": "MRSA",
         "name": "MRS LOGIST"
+    },
+    {
+        "ticker": "FRTA",
+        "name": "POMIFRUTAS"
     }
 ]
