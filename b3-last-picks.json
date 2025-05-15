@@ -1122,5 +1122,9 @@
     {
         "ticker": "CORR",
         "name": "COR RIBEIRO"
+    },
+    {
+        "ticker": "PPAR",
+        "name": "POLPAR"
     }
 ]
