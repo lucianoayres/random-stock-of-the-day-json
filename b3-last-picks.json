@@ -1126,5 +1126,9 @@
     {
         "ticker": "PPAR",
         "name": "POLPAR"
+    },
+    {
+        "ticker": "LWSA",
+        "name": "LWSA"
     }
 ]
