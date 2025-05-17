@@ -1130,5 +1130,9 @@
     {
         "ticker": "LWSA",
         "name": "LWSA"
+    },
+    {
+        "ticker": "ODER",
+        "name": "ODERICH"
     }
 ]
