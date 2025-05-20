@@ -1142,5 +1142,9 @@
     {
         "ticker": "ABCB",
         "name": "ABC BRASIL"
+    },
+    {
+        "ticker": "FRAS",
+        "name": "FRAS-LE"
     }
 ]
