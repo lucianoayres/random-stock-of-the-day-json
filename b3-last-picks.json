@@ -1154,5 +1154,9 @@
     {
         "ticker": "TFCO",
         "name": "TRACK FIELD"
+    },
+    {
+        "ticker": "SNSY",
+        "name": "SANSUY"
     }
 ]
