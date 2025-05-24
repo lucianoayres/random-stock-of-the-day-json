@@ -1158,5 +1158,9 @@
     {
         "ticker": "SNSY",
         "name": "SANSUY"
+    },
+    {
+        "ticker": "OFSA",
+        "name": "OUROFINO S/A"
     }
 ]
