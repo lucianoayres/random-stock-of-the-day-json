@@ -1166,5 +1166,9 @@
     {
         "ticker": "BAHI",
         "name": "BAHEMA"
+    },
+    {
+        "ticker": "HAPV",
+        "name": "HAPVIDA"
     }
 ]
