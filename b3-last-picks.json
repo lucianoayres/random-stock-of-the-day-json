@@ -1174,5 +1174,9 @@
     {
         "ticker": "SAPR",
         "name": "SANEPAR"
+    },
+    {
+        "ticker": "SIMH",
+        "name": "SIMPAR"
     }
 ]
