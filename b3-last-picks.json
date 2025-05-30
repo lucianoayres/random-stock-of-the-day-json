@@ -1182,5 +1182,9 @@
     {
         "ticker": "FNCN",
         "name": "DMFINANCEIRA"
+    },
+    {
+        "ticker": "BAUH",
+        "name": "EXCELSIOR"
     }
 ]
