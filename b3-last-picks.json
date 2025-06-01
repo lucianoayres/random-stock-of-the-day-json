@@ -1190,5 +1190,9 @@
     {
         "ticker": "BMOB",
         "name": "BEMOBI TECH"
+    },
+    {
+        "ticker": "SBFG",
+        "name": "GRUPO SBF"
     }
 ]
