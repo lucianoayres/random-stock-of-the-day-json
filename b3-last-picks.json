@@ -1194,5 +1194,9 @@
     {
         "ticker": "SBFG",
         "name": "GRUPO SBF"
+    },
+    {
+        "ticker": "GNDI",
+        "name": "INTERMEDICA"
     }
 ]
