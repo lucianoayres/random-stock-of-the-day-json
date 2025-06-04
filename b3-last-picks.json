@@ -1202,5 +1202,9 @@
     {
         "ticker": "SYNE",
         "name": "SYN PROP TEC"
+    },
+    {
+        "ticker": "CURY",
+        "name": "CURY S/A"
     }
 ]
