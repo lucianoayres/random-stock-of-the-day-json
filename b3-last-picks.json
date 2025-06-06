@@ -1210,5 +1210,9 @@
     {
         "ticker": "ANIM",
         "name": "ANIMA"
+    },
+    {
+        "ticker": "ITUB",
+        "name": "ITAUUNIBANCO"
     }
 ]
