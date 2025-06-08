@@ -1218,5 +1218,9 @@
     {
         "ticker": "BLUT",
         "name": "B TECH EQI"
+    },
+    {
+        "ticker": "MAPT",
+        "name": "CEMEPE"
     }
 ]
