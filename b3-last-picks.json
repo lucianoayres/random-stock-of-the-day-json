@@ -1222,5 +1222,9 @@
     {
         "ticker": "MAPT",
         "name": "CEMEPE"
+    },
+    {
+        "ticker": "JOPA",
+        "name": "JOSAPAR"
     }
 ]
