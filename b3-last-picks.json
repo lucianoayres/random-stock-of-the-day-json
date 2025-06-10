@@ -1226,5 +1226,9 @@
     {
         "ticker": "JOPA",
         "name": "JOSAPAR"
+    },
+    {
+        "ticker": "GMAT",
+        "name": "GRUPO MATEUS"
     }
 ]
