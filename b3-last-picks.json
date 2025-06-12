@@ -1234,5 +1234,9 @@
     {
         "ticker": "WLMM",
         "name": "WLM IND COM"
+    },
+    {
+        "ticker": "PMAM",
+        "name": "PARANAPANEMA"
     }
 ]
