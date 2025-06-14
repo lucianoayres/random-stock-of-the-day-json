@@ -1242,5 +1242,9 @@
     {
         "ticker": "ABEV",
         "name": "AMBEV S/A"
+    },
+    {
+        "ticker": "HOOT",
+        "name": "HOTEIS OTHON"
     }
 ]
