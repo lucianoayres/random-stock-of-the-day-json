@@ -1246,5 +1246,9 @@
     {
         "ticker": "HOOT",
         "name": "HOTEIS OTHON"
+    },
+    {
+        "ticker": "MGEL",
+        "name": "MANGELS INDL"
     }
 ]
