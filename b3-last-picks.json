@@ -1250,5 +1250,9 @@
     {
         "ticker": "MGEL",
         "name": "MANGELS INDL"
+    },
+    {
+        "ticker": "PRIO",
+        "name": "PETRORIO"
     }
 ]
