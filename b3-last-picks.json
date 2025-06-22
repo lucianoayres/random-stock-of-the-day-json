@@ -1274,5 +1274,9 @@
     {
         "ticker": "VITT",
         "name": "VITTIA"
+    },
+    {
+        "ticker": "FHER",
+        "name": "FER HERINGER"
     }
 ]
