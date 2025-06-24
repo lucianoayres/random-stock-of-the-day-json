@@ -1282,5 +1282,9 @@
     {
         "ticker": "ALUP",
         "name": "ALUPAR"
+    },
+    {
+        "ticker": "LUXM",
+        "name": "TREVISA"
     }
 ]
