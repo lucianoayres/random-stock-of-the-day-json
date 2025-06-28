@@ -1298,5 +1298,9 @@
     {
         "ticker": "CGAS",
         "name": "COMGAS"
+    },
+    {
+        "ticker": "CYRE",
+        "name": "CYRELA REALT"
     }
 ]
