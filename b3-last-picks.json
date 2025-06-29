@@ -1302,5 +1302,9 @@
     {
         "ticker": "CYRE",
         "name": "CYRELA REALT"
+    },
+    {
+        "ticker": "VAMO",
+        "name": "VAMOS"
     }
 ]
