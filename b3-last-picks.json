@@ -1310,5 +1310,9 @@
     {
         "ticker": "TASA",
         "name": "TAURUS ARMAS"
+    },
+    {
+        "ticker": "BRSR",
+        "name": "BANRISUL"
     }
 ]
