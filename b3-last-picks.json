@@ -1314,5 +1314,9 @@
     {
         "ticker": "BRSR",
         "name": "BANRISUL"
+    },
+    {
+        "ticker": "CCRO",
+        "name": "CCR SA"
     }
 ]
