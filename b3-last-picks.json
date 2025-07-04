@@ -1322,5 +1322,9 @@
     {
         "ticker": "CSRN",
         "name": "COSERN"
+    },
+    {
+        "ticker": "AGRO",
+        "name": "BRASILAGRO"
     }
 ]
