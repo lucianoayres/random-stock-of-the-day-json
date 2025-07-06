@@ -1330,5 +1330,9 @@
     {
         "ticker": "MDIA",
         "name": "M.DIASBRANCO"
+    },
+    {
+        "ticker": "FLRY",
+        "name": "FLEURY"
     }
 ]
