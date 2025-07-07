@@ -1334,5 +1334,9 @@
     {
         "ticker": "FLRY",
         "name": "FLEURY"
+    },
+    {
+        "ticker": "ENMT",
+        "name": "ENERGISA MT"
     }
 ]
