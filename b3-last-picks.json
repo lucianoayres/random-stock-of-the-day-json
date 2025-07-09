@@ -1342,5 +1342,9 @@
     {
         "ticker": "IGTA",
         "name": "IGUATEMI"
+    },
+    {
+        "ticker": "BBSE",
+        "name": "BBSEGURIDADE"
     }
 ]
