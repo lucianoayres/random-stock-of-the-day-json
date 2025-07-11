@@ -1350,5 +1350,9 @@
     {
         "ticker": "ENBR",
         "name": "ENERGIAS BR"
+    },
+    {
+        "ticker": "ENMA",
+        "name": "EQTLMARANHAO"
     }
 ]
