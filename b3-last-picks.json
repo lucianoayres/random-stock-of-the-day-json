@@ -1362,5 +1362,9 @@
     {
         "ticker": "ROMI",
         "name": "ROMI"
+    },
+    {
+        "ticker": "CRFB",
+        "name": "CARREFOUR BR"
     }
 ]
