@@ -1378,5 +1378,9 @@
     {
         "ticker": "B3SA",
         "name": "B3"
+    },
+    {
+        "ticker": "BEES",
+        "name": "BANESTES"
     }
 ]
