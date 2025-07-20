@@ -1386,5 +1386,9 @@
     {
         "ticker": "MMAQ",
         "name": "MINASMAQUINA"
+    },
+    {
+        "ticker": "AESB",
+        "name": "AES BRASIL"
     }
 ]
