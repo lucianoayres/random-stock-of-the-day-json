@@ -1394,5 +1394,9 @@
     {
         "ticker": "MMXM",
         "name": "MMX MINER"
+    },
+    {
+        "ticker": "AGXY",
+        "name": "AGROGALAXY"
     }
 ]
