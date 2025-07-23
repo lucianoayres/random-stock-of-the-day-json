@@ -1398,5 +1398,9 @@
     {
         "ticker": "AGXY",
         "name": "AGROGALAXY"
+    },
+    {
+        "ticker": "SHOW",
+        "name": "TIME FOR FUN"
     }
 ]
