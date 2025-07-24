@@ -1402,5 +1402,9 @@
     {
         "ticker": "SHOW",
         "name": "TIME FOR FUN"
+    },
+    {
+        "ticker": "SEER",
+        "name": "SER EDUCA"
     }
 ]
