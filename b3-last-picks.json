@@ -1414,5 +1414,9 @@
     {
         "ticker": "RAIL",
         "name": "RUMO S.A."
+    },
+    {
+        "ticker": "MDNE",
+        "name": "MOURA DUBEUX"
     }
 ]
