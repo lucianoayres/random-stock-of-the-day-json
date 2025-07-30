@@ -1426,5 +1426,9 @@
     {
         "ticker": "SUZB",
         "name": "SUZANO S.A."
+    },
+    {
+        "ticker": "GOAU",
+        "name": "GERDAU MET"
     }
 ]
