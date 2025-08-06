@@ -1454,5 +1454,9 @@
     {
         "ticker": "DESK",
         "name": "DESKTOP"
+    },
+    {
+        "ticker": "PCAR",
+        "name": "P.ACUCAR-CBD"
     }
 ]
