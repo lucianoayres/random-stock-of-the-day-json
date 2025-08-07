@@ -1458,5 +1458,9 @@
     {
         "ticker": "PCAR",
         "name": "P.ACUCAR-CBD"
+    },
+    {
+        "ticker": "MNZC",
+        "name": "MENEZES CORT"
     }
 ]
