@@ -1462,5 +1462,9 @@
     {
         "ticker": "MNZC",
         "name": "MENEZES CORT"
+    },
+    {
+        "ticker": "REDE",
+        "name": "REDE ENERGIA"
     }
 ]
