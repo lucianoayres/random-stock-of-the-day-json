@@ -1466,5 +1466,9 @@
     {
         "ticker": "REDE",
         "name": "REDE ENERGIA"
+    },
+    {
+        "ticker": "AVLL",
+        "name": "ALPHAVILLE"
     }
 ]
