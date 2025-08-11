@@ -1474,5 +1474,9 @@
     {
         "ticker": "SHUL",
         "name": "SCHULZ"
+    },
+    {
+        "ticker": "TPIS",
+        "name": "TRIUNFO PART"
     }
 ]
