@@ -1486,5 +1486,9 @@
     {
         "ticker": "DXCO",
         "name": "DEXCO"
+    },
+    {
+        "ticker": "CNSY",
+        "name": "CINESYSTEM"
     }
 ]
