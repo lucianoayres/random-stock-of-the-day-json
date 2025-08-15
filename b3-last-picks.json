@@ -1490,5 +1490,9 @@
     {
         "ticker": "CNSY",
         "name": "CINESYSTEM"
+    },
+    {
+        "ticker": "BBAS",
+        "name": "BRASIL"
     }
 ]
