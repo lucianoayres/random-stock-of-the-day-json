@@ -1498,5 +1498,9 @@
     {
         "ticker": "EPAR",
         "name": "EMBPAR S/A"
+    },
+    {
+        "ticker": "VIVT",
+        "name": "TELEF BRASIL"
     }
 ]
