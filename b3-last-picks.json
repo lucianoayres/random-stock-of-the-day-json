@@ -1526,5 +1526,9 @@
     {
         "ticker": "ENJU",
         "name": "ENJOEI"
+    },
+    {
+        "ticker": "PETZ",
+        "name": "PETZ"
     }
 ]
