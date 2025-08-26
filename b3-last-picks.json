@@ -1534,5 +1534,9 @@
     {
         "ticker": "SCAR",
         "name": "SAO CARLOS"
+    },
+    {
+        "ticker": "GOLL",
+        "name": "GOL"
     }
 ]
