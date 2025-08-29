@@ -1546,5 +1546,9 @@
     {
         "ticker": "ELET",
         "name": "ELETROBRAS"
+    },
+    {
+        "ticker": "LJQQ",
+        "name": "QUERO-QUERO"
     }
 ]
