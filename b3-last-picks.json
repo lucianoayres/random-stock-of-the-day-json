@@ -1554,5 +1554,9 @@
     {
         "ticker": "MEAL",
         "name": "IMC S/A"
+    },
+    {
+        "ticker": "DTCY",
+        "name": "DTCOM-DIRECT"
     }
 ]
