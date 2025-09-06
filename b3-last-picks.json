@@ -1578,5 +1578,9 @@
     {
         "ticker": "TCSA",
         "name": "TECNISA"
+    },
+    {
+        "ticker": "JPSA",
+        "name": "IGUATEMI S.A"
     }
 ]
