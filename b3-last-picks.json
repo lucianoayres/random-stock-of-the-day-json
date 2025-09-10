@@ -10,5 +10,9 @@
     {
         "ticker": "ETER",
         "name": "ETERNIT"
+    },
+    {
+        "ticker": "POWE",
+        "name": "FOCUS ON"
     }
 ]
