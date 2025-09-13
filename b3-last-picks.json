@@ -22,5 +22,9 @@
     {
         "ticker": "AGXY",
         "name": "AGROGALAXY"
+    },
+    {
+        "ticker": "CSRN",
+        "name": "COSERN"
     }
 ]
