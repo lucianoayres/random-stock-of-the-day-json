@@ -26,5 +26,9 @@
     {
         "ticker": "CSRN",
         "name": "COSERN"
+    },
+    {
+        "ticker": "YDUQ",
+        "name": "YDUQS PART"
     }
 ]
