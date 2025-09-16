@@ -34,5 +34,9 @@
     {
         "ticker": "BEES",
         "name": "BANESTES"
+    },
+    {
+        "ticker": "BBSE",
+        "name": "BBSEGURIDADE"
     }
 ]
