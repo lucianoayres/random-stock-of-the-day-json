@@ -38,5 +38,9 @@
     {
         "ticker": "BBSE",
         "name": "BBSEGURIDADE"
+    },
+    {
+        "ticker": "SQIA",
+        "name": "SINQIA"
     }
 ]
