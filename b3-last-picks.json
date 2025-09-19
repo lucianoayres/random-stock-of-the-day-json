@@ -46,5 +46,9 @@
     {
         "ticker": "EGIE",
         "name": "ENGIE BRASIL"
+    },
+    {
+        "ticker": "ECOR",
+        "name": "ECORODOVIAS"
     }
 ]
