@@ -62,5 +62,9 @@
     {
         "ticker": "COCE",
         "name": "COELCE"
+    },
+    {
+        "ticker": "VIVR",
+        "name": "VIVER"
     }
 ]
