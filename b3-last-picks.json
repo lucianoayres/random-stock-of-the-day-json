@@ -82,5 +82,9 @@
     {
         "ticker": "MERC",
         "name": "MERC FINANC"
+    },
+    {
+        "ticker": "ITSA",
+        "name": "ITAUSA"
     }
 ]
