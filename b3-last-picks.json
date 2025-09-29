@@ -86,5 +86,9 @@
     {
         "ticker": "ITSA",
         "name": "ITAUSA"
+    },
+    {
+        "ticker": "TCSA",
+        "name": "TECNISA"
     }
 ]
