@@ -90,5 +90,9 @@
     {
         "ticker": "TCSA",
         "name": "TECNISA"
+    },
+    {
+        "ticker": "MOAR",
+        "name": "MONT ARANHA"
     }
 ]
