@@ -94,5 +94,9 @@
     {
         "ticker": "MOAR",
         "name": "MONT ARANHA"
+    },
+    {
+        "ticker": "RDOR",
+        "name": "REDE D OR"
     }
 ]
