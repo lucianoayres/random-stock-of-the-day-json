@@ -98,5 +98,9 @@
     {
         "ticker": "RDOR",
         "name": "REDE D OR"
+    },
+    {
+        "ticker": "FIQE",
+        "name": "UNIFIQUE"
     }
 ]
