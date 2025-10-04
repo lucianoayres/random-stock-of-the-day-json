@@ -106,5 +106,9 @@
     {
         "ticker": "LOGG",
         "name": "LOG COM PROP"
+    },
+    {
+        "ticker": "TELB",
+        "name": "TELEBRAS"
     }
 ]
