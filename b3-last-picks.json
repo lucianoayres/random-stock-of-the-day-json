@@ -118,5 +118,9 @@
     {
         "ticker": "DMMO",
         "name": "DOMMO"
+    },
+    {
+        "ticker": "SNSY",
+        "name": "SANSUY"
     }
 ]
