@@ -142,5 +142,9 @@
     {
         "ticker": "JBDU",
         "name": "B TECH EQI"
+    },
+    {
+        "ticker": "CYRE",
+        "name": "CYRELA REALT"
     }
 ]
