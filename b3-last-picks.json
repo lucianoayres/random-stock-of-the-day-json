@@ -146,5 +146,9 @@
     {
         "ticker": "CYRE",
         "name": "CYRELA REALT"
+    },
+    {
+        "ticker": "PGMN",
+        "name": "PAGUE MENOS"
     }
 ]
