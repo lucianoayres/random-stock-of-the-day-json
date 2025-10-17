@@ -158,5 +158,9 @@
     {
         "ticker": "ODER",
         "name": "ODERICH"
+    },
+    {
+        "ticker": "MNDL",
+        "name": "MUNDIAL"
     }
 ]
