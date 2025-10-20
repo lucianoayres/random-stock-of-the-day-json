@@ -170,5 +170,9 @@
     {
         "ticker": "MRSA",
         "name": "MRS LOGIST"
+    },
+    {
+        "ticker": "BMKS",
+        "name": "BIC MONARK"
     }
 ]
