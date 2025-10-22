@@ -178,5 +178,9 @@
     {
         "ticker": "GFSA",
         "name": "GAFISA"
+    },
+    {
+        "ticker": "ABCB",
+        "name": "ABC BRASIL"
     }
 ]
