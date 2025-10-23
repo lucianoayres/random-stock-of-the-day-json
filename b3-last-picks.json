@@ -182,5 +182,9 @@
     {
         "ticker": "ABCB",
         "name": "ABC BRASIL"
+    },
+    {
+        "ticker": "BMIN",
+        "name": "MERC INVEST"
     }
 ]
