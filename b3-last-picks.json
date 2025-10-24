@@ -186,5 +186,9 @@
     {
         "ticker": "BMIN",
         "name": "MERC INVEST"
+    },
+    {
+        "ticker": "BPAN",
+        "name": "BANCO PAN"
     }
 ]
