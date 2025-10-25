@@ -190,5 +190,9 @@
     {
         "ticker": "BPAN",
         "name": "BANCO PAN"
+    },
+    {
+        "ticker": "IGTA",
+        "name": "IGUATEMI"
     }
 ]
