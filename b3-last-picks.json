@@ -194,5 +194,9 @@
     {
         "ticker": "IGTA",
         "name": "IGUATEMI"
+    },
+    {
+        "ticker": "PFRM",
+        "name": "PROFARMA"
     }
 ]
