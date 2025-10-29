@@ -206,5 +206,9 @@
     {
         "ticker": "RPMG",
         "name": "PET MANGUINH"
+    },
+    {
+        "ticker": "CGRA",
+        "name": "GRAZZIOTIN"
     }
 ]
