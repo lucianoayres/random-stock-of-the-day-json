@@ -210,5 +210,9 @@
     {
         "ticker": "CGRA",
         "name": "GRAZZIOTIN"
+    },
+    {
+        "ticker": "CEDO",
+        "name": "CEDRO"
     }
 ]
