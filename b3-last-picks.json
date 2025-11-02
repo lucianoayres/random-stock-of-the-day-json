@@ -222,5 +222,9 @@
     {
         "ticker": "AZUL",
         "name": "AZUL"
+    },
+    {
+        "ticker": "EPAR",
+        "name": "EMBPAR S/A"
     }
 ]
