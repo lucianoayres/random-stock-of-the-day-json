@@ -230,5 +230,9 @@
     {
         "ticker": "AZEV",
         "name": "AZEVEDO"
+    },
+    {
+        "ticker": "MYPK",
+        "name": "IOCHP-MAXION"
     }
 ]
