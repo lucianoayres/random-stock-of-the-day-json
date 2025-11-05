@@ -234,5 +234,9 @@
     {
         "ticker": "MYPK",
         "name": "IOCHP-MAXION"
+    },
+    {
+        "ticker": "AESB",
+        "name": "AES BRASIL"
     }
 ]
