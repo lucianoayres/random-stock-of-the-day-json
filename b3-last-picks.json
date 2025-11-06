@@ -238,5 +238,9 @@
     {
         "ticker": "AESB",
         "name": "AES BRASIL"
+    },
+    {
+        "ticker": "CRFB",
+        "name": "CARREFOUR BR"
     }
 ]
