@@ -242,5 +242,9 @@
     {
         "ticker": "CRFB",
         "name": "CARREFOUR BR"
+    },
+    {
+        "ticker": "BAHI",
+        "name": "BAHEMA"
     }
 ]
