@@ -246,5 +246,9 @@
     {
         "ticker": "BAHI",
         "name": "BAHEMA"
+    },
+    {
+        "ticker": "SHUL",
+        "name": "SCHULZ"
     }
 ]
