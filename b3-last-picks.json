@@ -250,5 +250,9 @@
     {
         "ticker": "SHUL",
         "name": "SCHULZ"
+    },
+    {
+        "ticker": "PARD",
+        "name": "IHPARDINI"
     }
 ]
