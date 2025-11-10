@@ -254,5 +254,9 @@
     {
         "ticker": "PARD",
         "name": "IHPARDINI"
+    },
+    {
+        "ticker": "MRVE",
+        "name": "MRV"
     }
 ]
