@@ -262,5 +262,9 @@
     {
         "ticker": "BRAP",
         "name": "BRADESPAR"
+    },
+    {
+        "ticker": "CASN",
+        "name": "CASAN"
     }
 ]
