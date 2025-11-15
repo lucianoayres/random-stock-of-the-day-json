@@ -274,5 +274,9 @@
     {
         "ticker": "LPSB",
         "name": "LOPES BRASIL"
+    },
+    {
+        "ticker": "ELET",
+        "name": "ELETROBRAS"
     }
 ]
