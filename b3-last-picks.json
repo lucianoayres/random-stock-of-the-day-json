@@ -278,5 +278,9 @@
     {
         "ticker": "ELET",
         "name": "ELETROBRAS"
+    },
+    {
+        "ticker": "PLPL",
+        "name": "PLANOEPLANO"
     }
 ]
