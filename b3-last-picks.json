@@ -286,5 +286,9 @@
     {
         "ticker": "ELPL",
         "name": "ELETROPAULO"
+    },
+    {
+        "ticker": "CCRO",
+        "name": "CCR SA"
     }
 ]
