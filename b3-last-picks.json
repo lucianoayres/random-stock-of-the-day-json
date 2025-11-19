@@ -290,5 +290,9 @@
     {
         "ticker": "CCRO",
         "name": "CCR SA"
+    },
+    {
+        "ticker": "AMAR",
+        "name": "LOJAS MARISA"
     }
 ]
