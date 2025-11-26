@@ -318,5 +318,9 @@
     {
         "ticker": "JHSF",
         "name": "JHSF PART"
+    },
+    {
+        "ticker": "KRSA",
+        "name": "KORA SAUDE"
     }
 ]
