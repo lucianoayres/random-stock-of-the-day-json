@@ -322,5 +322,9 @@
     {
         "ticker": "KRSA",
         "name": "KORA SAUDE"
+    },
+    {
+        "ticker": "PEAB",
+        "name": "PAR AL BAHIA"
     }
 ]
