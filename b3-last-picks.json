@@ -330,5 +330,9 @@
     {
         "ticker": "NUTR",
         "name": "NUTRIPLANT"
+    },
+    {
+        "ticker": "ALUP",
+        "name": "ALUPAR"
     }
 ]
