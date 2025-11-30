@@ -334,5 +334,9 @@
     {
         "ticker": "ALUP",
         "name": "ALUPAR"
+    },
+    {
+        "ticker": "EMBR",
+        "name": "EMBRAER"
     }
 ]
