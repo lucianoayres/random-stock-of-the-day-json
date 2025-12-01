@@ -338,5 +338,9 @@
     {
         "ticker": "EMBR",
         "name": "EMBRAER"
+    },
+    {
+        "ticker": "UNIP",
+        "name": "UNIPAR"
     }
 ]
