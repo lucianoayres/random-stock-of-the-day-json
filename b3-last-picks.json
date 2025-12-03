@@ -346,5 +346,9 @@
     {
         "ticker": "USIM",
         "name": "USIMINAS"
+    },
+    {
+        "ticker": "GRND",
+        "name": "GRENDENE"
     }
 ]
