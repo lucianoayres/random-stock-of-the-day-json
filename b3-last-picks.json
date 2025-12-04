@@ -350,5 +350,9 @@
     {
         "ticker": "GRND",
         "name": "GRENDENE"
+    },
+    {
+        "ticker": "RECV",
+        "name": "PETRORECSA"
     }
 ]
