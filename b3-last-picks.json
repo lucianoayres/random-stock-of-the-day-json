@@ -354,5 +354,9 @@
     {
         "ticker": "RECV",
         "name": "PETRORECSA"
+    },
+    {
+        "ticker": "DASA",
+        "name": "DASA"
     }
 ]
