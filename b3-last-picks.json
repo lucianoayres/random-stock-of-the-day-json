@@ -358,5 +358,9 @@
     {
         "ticker": "DASA",
         "name": "DASA"
+    },
+    {
+        "ticker": "MWET",
+        "name": "WETZEL S/A"
     }
 ]
