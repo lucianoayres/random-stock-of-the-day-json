@@ -362,5 +362,9 @@
     {
         "ticker": "MWET",
         "name": "WETZEL S/A"
+    },
+    {
+        "ticker": "FIGE",
+        "name": "INVEST BEMGE"
     }
 ]
