@@ -366,5 +366,9 @@
     {
         "ticker": "FIGE",
         "name": "INVEST BEMGE"
+    },
+    {
+        "ticker": "OSXB",
+        "name": "OSX BRASIL"
     }
 ]
