@@ -370,5 +370,9 @@
     {
         "ticker": "OSXB",
         "name": "OSX BRASIL"
+    },
+    {
+        "ticker": "CSAB",
+        "name": "SEG AL BAHIA"
     }
 ]
