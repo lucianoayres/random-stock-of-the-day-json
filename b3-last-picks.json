@@ -374,5 +374,9 @@
     {
         "ticker": "CSAB",
         "name": "SEG AL BAHIA"
+    },
+    {
+        "ticker": "SGPS",
+        "name": "SPRINGS"
     }
 ]
