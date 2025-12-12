@@ -382,5 +382,9 @@
     {
         "ticker": "AALR",
         "name": "ALLIAR"
+    },
+    {
+        "ticker": "CALI",
+        "name": "CONST A LIND"
     }
 ]
