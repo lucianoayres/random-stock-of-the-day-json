@@ -390,5 +390,9 @@
     {
         "ticker": "EQTL",
         "name": "EQUATORIAL"
+    },
+    {
+        "ticker": "RNEW",
+        "name": "RENOVA"
     }
 ]
