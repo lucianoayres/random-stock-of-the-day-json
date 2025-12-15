@@ -394,5 +394,9 @@
     {
         "ticker": "RNEW",
         "name": "RENOVA"
+    },
+    {
+        "ticker": "BRIT",
+        "name": "BRISANET"
     }
 ]
