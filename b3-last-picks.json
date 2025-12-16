@@ -398,5 +398,9 @@
     {
         "ticker": "BRIT",
         "name": "BRISANET"
+    },
+    {
+        "ticker": "VSTE",
+        "name": "VESTE"
     }
 ]
