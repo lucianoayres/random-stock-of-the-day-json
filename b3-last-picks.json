@@ -402,5 +402,9 @@
     {
         "ticker": "VSTE",
         "name": "VESTE"
+    },
+    {
+        "ticker": "BIOM",
+        "name": "BIOMM"
     }
 ]
