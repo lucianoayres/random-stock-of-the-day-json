@@ -406,5 +406,9 @@
     {
         "ticker": "BIOM",
         "name": "BIOMM"
+    },
+    {
+        "ticker": "ESPA",
+        "name": "ESPACOLASER"
     }
 ]
