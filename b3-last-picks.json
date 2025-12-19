@@ -410,5 +410,9 @@
     {
         "ticker": "ESPA",
         "name": "ESPACOLASER"
+    },
+    {
+        "ticker": "WIZC",
+        "name": "WIZ CO"
     }
 ]
