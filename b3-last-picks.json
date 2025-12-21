@@ -418,5 +418,9 @@
     {
         "ticker": "FESA",
         "name": "FERBASA"
+    },
+    {
+        "ticker": "VVEO",
+        "name": "VIVEO"
     }
 ]
