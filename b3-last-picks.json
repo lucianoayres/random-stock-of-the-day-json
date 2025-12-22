@@ -422,5 +422,9 @@
     {
         "ticker": "VVEO",
         "name": "VIVEO"
+    },
+    {
+        "ticker": "LJQQ",
+        "name": "QUERO-QUERO"
     }
 ]
