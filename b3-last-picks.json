@@ -426,5 +426,9 @@
     {
         "ticker": "LJQQ",
         "name": "QUERO-QUERO"
+    },
+    {
+        "ticker": "EKTR",
+        "name": "ELEKTRO"
     }
 ]
