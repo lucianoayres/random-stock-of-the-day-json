@@ -430,5 +430,9 @@
     {
         "ticker": "EKTR",
         "name": "ELEKTRO"
+    },
+    {
+        "ticker": "CGAS",
+        "name": "COMGAS"
     }
 ]
