@@ -438,5 +438,9 @@
     {
         "ticker": "NEOE",
         "name": "NEOENERGIA"
+    },
+    {
+        "ticker": "LCAM",
+        "name": "LOCAMERICA"
     }
 ]
