@@ -446,5 +446,9 @@
     {
         "ticker": "GOLL",
         "name": "GOL"
+    },
+    {
+        "ticker": "FNCN",
+        "name": "DMFINANCEIRA"
     }
 ]
