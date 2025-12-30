@@ -454,5 +454,9 @@
     {
         "ticker": "LOGN",
         "name": "LOG-IN"
+    },
+    {
+        "ticker": "SUZB",
+        "name": "SUZANO S.A."
     }
 ]
