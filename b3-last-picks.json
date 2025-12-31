@@ -458,5 +458,9 @@
     {
         "ticker": "SUZB",
         "name": "SUZANO S.A."
+    },
+    {
+        "ticker": "CSMG",
+        "name": "COPASA"
     }
 ]
