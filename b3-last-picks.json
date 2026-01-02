@@ -466,5 +466,9 @@
     {
         "ticker": "LUXM",
         "name": "TREVISA"
+    },
+    {
+        "ticker": "IFCM",
+        "name": "INFRACOMM"
     }
 ]
