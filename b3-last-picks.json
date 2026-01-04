@@ -474,5 +474,9 @@
     {
         "ticker": "OFSA",
         "name": "OUROFINO S/A"
+    },
+    {
+        "ticker": "MNZC",
+        "name": "MENEZES CORT"
     }
 ]
