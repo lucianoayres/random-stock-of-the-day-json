@@ -478,5 +478,9 @@
     {
         "ticker": "MNZC",
         "name": "MENEZES CORT"
+    },
+    {
+        "ticker": "BIDI",
+        "name": "BANCO INTER"
     }
 ]
