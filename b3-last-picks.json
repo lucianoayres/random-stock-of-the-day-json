@@ -494,5 +494,9 @@
     {
         "ticker": "SULA",
         "name": "SUL AMERICA"
+    },
+    {
+        "ticker": "BGIP",
+        "name": "BANESE"
     }
 ]
