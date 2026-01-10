@@ -498,5 +498,9 @@
     {
         "ticker": "BGIP",
         "name": "BANESE"
+    },
+    {
+        "ticker": "BRFS",
+        "name": "BRF SA"
     }
 ]
