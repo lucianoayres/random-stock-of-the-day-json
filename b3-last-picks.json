@@ -514,5 +514,9 @@
     {
         "ticker": "ENBR",
         "name": "ENERGIAS BR"
+    },
+    {
+        "ticker": "BNBR",
+        "name": "NORD BRASIL"
     }
 ]
