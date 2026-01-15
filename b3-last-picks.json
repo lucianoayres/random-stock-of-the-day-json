@@ -518,5 +518,9 @@
     {
         "ticker": "BNBR",
         "name": "NORD BRASIL"
+    },
+    {
+        "ticker": "GUAR",
+        "name": "GUARARAPES"
     }
 ]
