@@ -526,5 +526,9 @@
     {
         "ticker": "MDIA",
         "name": "M.DIASBRANCO"
+    },
+    {
+        "ticker": "CSED",
+        "name": "CRUZEIRO EDU"
     }
 ]
