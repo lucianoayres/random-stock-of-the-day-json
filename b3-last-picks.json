@@ -530,5 +530,9 @@
     {
         "ticker": "CSED",
         "name": "CRUZEIRO EDU"
+    },
+    {
+        "ticker": "LAND",
+        "name": "TERRASANTAPA"
     }
 ]
