@@ -534,5 +534,9 @@
     {
         "ticker": "LAND",
         "name": "TERRASANTAPA"
+    },
+    {
+        "ticker": "DESK",
+        "name": "DESKTOP"
     }
 ]
