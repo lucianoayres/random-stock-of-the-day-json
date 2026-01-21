@@ -542,5 +542,9 @@
     {
         "ticker": "CLSC",
         "name": "CELESC"
+    },
+    {
+        "ticker": "SEQL",
+        "name": "SEQUOIA LOG"
     }
 ]
