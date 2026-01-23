@@ -550,5 +550,9 @@
     {
         "ticker": "EEEL",
         "name": "CEEE-T"
+    },
+    {
+        "ticker": "CSUD",
+        "name": "CSU DIGITAL"
     }
 ]
