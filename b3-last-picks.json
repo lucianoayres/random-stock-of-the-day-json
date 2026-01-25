@@ -558,5 +558,9 @@
     {
         "ticker": "SOJA",
         "name": "BOA SAFRA"
+    },
+    {
+        "ticker": "SOND",
+        "name": "SONDOTECNICA"
     }
 ]
