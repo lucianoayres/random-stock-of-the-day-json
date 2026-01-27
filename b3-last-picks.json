@@ -566,5 +566,9 @@
     {
         "ticker": "DIRR",
         "name": "DIRECIONAL"
+    },
+    {
+        "ticker": "RPAD",
+        "name": "ALFA HOLDING"
     }
 ]
