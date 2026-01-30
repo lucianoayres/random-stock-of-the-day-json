@@ -578,5 +578,9 @@
     {
         "ticker": "UGPA",
         "name": "ULTRAPAR"
+    },
+    {
+        "ticker": "FRAS",
+        "name": "FRAS-LE"
     }
 ]
