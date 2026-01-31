@@ -582,5 +582,9 @@
     {
         "ticker": "FRAS",
         "name": "FRAS-LE"
+    },
+    {
+        "ticker": "ENJU",
+        "name": "ENJOEI"
     }
 ]
