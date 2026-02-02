@@ -590,5 +590,9 @@
     {
         "ticker": "VSPT",
         "name": "FER C ATLANT"
+    },
+    {
+        "ticker": "ALOS",
+        "name": "ALLOS"
     }
 ]
