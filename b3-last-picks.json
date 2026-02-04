@@ -598,5 +598,9 @@
     {
         "ticker": "VITT",
         "name": "VITTIA"
+    },
+    {
+        "ticker": "ASAI",
+        "name": "ASSAI"
     }
 ]
