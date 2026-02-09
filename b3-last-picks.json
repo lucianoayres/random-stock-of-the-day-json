@@ -618,5 +618,9 @@
     {
         "ticker": "TRPL",
         "name": "TRAN PAULIST"
+    },
+    {
+        "ticker": "PTBL",
+        "name": "PORTOBELLO"
     }
 ]
