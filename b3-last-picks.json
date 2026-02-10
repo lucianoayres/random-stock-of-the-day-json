@@ -622,5 +622,9 @@
     {
         "ticker": "PTBL",
         "name": "PORTOBELLO"
+    },
+    {
+        "ticker": "POSI",
+        "name": "POSITIVO TEC"
     }
 ]
