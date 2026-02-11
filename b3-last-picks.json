@@ -626,5 +626,9 @@
     {
         "ticker": "POSI",
         "name": "POSITIVO TEC"
+    },
+    {
+        "ticker": "AHEB",
+        "name": "SPTURIS"
     }
 ]
