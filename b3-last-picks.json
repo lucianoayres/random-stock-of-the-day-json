@@ -630,5 +630,9 @@
     {
         "ticker": "AHEB",
         "name": "SPTURIS"
+    },
+    {
+        "ticker": "LREN",
+        "name": "LOJAS RENNER"
     }
 ]
