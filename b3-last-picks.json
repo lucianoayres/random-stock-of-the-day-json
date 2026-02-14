@@ -638,5 +638,9 @@
     {
         "ticker": "BMOB",
         "name": "BEMOBI TECH"
+    },
+    {
+        "ticker": "INEP",
+        "name": "INEPAR"
     }
 ]
