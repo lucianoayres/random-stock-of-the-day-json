@@ -646,5 +646,9 @@
     {
         "ticker": "TXRX",
         "name": "TEX RENAUX"
+    },
+    {
+        "ticker": "PCAR",
+        "name": "P.ACUCAR-CBD"
     }
 ]
