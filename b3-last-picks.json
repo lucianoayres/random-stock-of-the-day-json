@@ -654,5 +654,9 @@
     {
         "ticker": "PRNR",
         "name": "PRINER"
+    },
+    {
+        "ticker": "GMAT",
+        "name": "GRUPO MATEUS"
     }
 ]
