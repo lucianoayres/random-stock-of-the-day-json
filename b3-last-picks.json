@@ -658,5 +658,9 @@
     {
         "ticker": "GMAT",
         "name": "GRUPO MATEUS"
+    },
+    {
+        "ticker": "CRDE",
+        "name": "FICA"
     }
 ]
