@@ -662,5 +662,9 @@
     {
         "ticker": "CRDE",
         "name": "FICA"
+    },
+    {
+        "ticker": "EVEN",
+        "name": "EVEN"
     }
 ]
