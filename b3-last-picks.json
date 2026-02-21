@@ -666,5 +666,9 @@
     {
         "ticker": "EVEN",
         "name": "EVEN"
+    },
+    {
+        "ticker": "CXSE",
+        "name": "CAIXA SEGURI"
     }
 ]
