@@ -670,5 +670,9 @@
     {
         "ticker": "CXSE",
         "name": "CAIXA SEGURI"
+    },
+    {
+        "ticker": "LVTC",
+        "name": "WDC NETWORKS"
     }
 ]
