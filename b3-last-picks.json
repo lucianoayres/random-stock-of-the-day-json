@@ -678,5 +678,9 @@
     {
         "ticker": "HBRE",
         "name": "HBR REALTY"
+    },
+    {
+        "ticker": "BLUT",
+        "name": "B TECH EQI"
     }
 ]
