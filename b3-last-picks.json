@@ -682,5 +682,9 @@
     {
         "ticker": "BLUT",
         "name": "B TECH EQI"
+    },
+    {
+        "ticker": "STBP",
+        "name": "SANTOS BRP"
     }
 ]
