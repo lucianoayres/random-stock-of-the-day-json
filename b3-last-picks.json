@@ -686,5 +686,9 @@
     {
         "ticker": "STBP",
         "name": "SANTOS BRP"
+    },
+    {
+        "ticker": "PSSA",
+        "name": "PORTO SEGURO"
     }
 ]
