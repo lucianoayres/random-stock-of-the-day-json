@@ -690,5 +690,9 @@
     {
         "ticker": "PSSA",
         "name": "PORTO SEGURO"
+    },
+    {
+        "ticker": "ALPA",
+        "name": "ALPARGATAS"
     }
 ]
