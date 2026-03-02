@@ -702,5 +702,9 @@
     {
         "ticker": "LIPR",
         "name": "ELETROPAR"
+    },
+    {
+        "ticker": "HBSA",
+        "name": "HIDROVIAS"
     }
 ]
