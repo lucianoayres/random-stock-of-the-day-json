@@ -706,5 +706,9 @@
     {
         "ticker": "HBSA",
         "name": "HIDROVIAS"
+    },
+    {
+        "ticker": "ALLD",
+        "name": "ALLIED"
     }
 ]
