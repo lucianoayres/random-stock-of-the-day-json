@@ -722,5 +722,9 @@
     {
         "ticker": "BRML",
         "name": "BR MALLS PAR"
+    },
+    {
+        "ticker": "MDNE",
+        "name": "MOURA DUBEUX"
     }
 ]
