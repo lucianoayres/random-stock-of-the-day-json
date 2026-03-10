@@ -734,5 +734,9 @@
     {
         "ticker": "PTNT",
         "name": "PETTENATI"
+    },
+    {
+        "ticker": "JALL",
+        "name": "JALLESMACHAD"
     }
 ]
