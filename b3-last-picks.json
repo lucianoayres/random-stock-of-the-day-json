@@ -738,5 +738,9 @@
     {
         "ticker": "JALL",
         "name": "JALLESMACHAD"
+    },
+    {
+        "ticker": "BMEB",
+        "name": "MERCANTIL"
     }
 ]
