@@ -746,5 +746,9 @@
     {
         "ticker": "SMTO",
         "name": "SAO MARTINHO"
+    },
+    {
+        "ticker": "MOSI",
+        "name": "MOSAICO"
     }
 ]
