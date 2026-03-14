@@ -750,5 +750,9 @@
     {
         "ticker": "MOSI",
         "name": "MOSAICO"
+    },
+    {
+        "ticker": "CBEE",
+        "name": "AMPLA ENERG"
     }
 ]
