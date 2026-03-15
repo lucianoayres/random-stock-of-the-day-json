@@ -754,5 +754,9 @@
     {
         "ticker": "CBEE",
         "name": "AMPLA ENERG"
+    },
+    {
+        "ticker": "TRIS",
+        "name": "TRISUL"
     }
 ]
