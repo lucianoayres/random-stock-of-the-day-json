@@ -766,5 +766,9 @@
     {
         "ticker": "B3SA",
         "name": "B3"
+    },
+    {
+        "ticker": "TGMA",
+        "name": "TEGMA"
     }
 ]
