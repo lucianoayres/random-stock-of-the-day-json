@@ -770,5 +770,9 @@
     {
         "ticker": "TGMA",
         "name": "TEGMA"
+    },
+    {
+        "ticker": "SAPR",
+        "name": "SANEPAR"
     }
 ]
