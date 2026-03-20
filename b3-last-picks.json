@@ -774,5 +774,9 @@
     {
         "ticker": "SAPR",
         "name": "SANEPAR"
+    },
+    {
+        "ticker": "RENT",
+        "name": "LOCALIZA"
     }
 ]
