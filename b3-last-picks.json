@@ -778,5 +778,9 @@
     {
         "ticker": "RENT",
         "name": "LOCALIZA"
+    },
+    {
+        "ticker": "BRKM",
+        "name": "BRASKEM"
     }
 ]
