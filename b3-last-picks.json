@@ -782,5 +782,9 @@
     {
         "ticker": "BRKM",
         "name": "BRASKEM"
+    },
+    {
+        "ticker": "ESTR",
+        "name": "ESTRELA"
     }
 ]
