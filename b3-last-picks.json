@@ -786,5 +786,9 @@
     {
         "ticker": "ESTR",
         "name": "ESTRELA"
+    },
+    {
+        "ticker": "RADL",
+        "name": "RAIADROGASIL"
     }
 ]
