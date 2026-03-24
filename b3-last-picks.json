@@ -790,5 +790,9 @@
     {
         "ticker": "RADL",
         "name": "RAIADROGASIL"
+    },
+    {
+        "ticker": "TKNO",
+        "name": "TEKNO"
     }
 ]
