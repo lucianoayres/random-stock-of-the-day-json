@@ -802,5 +802,9 @@
     {
         "ticker": "CTCA",
         "name": "CTC S.A."
+    },
+    {
+        "ticker": "AMER",
+        "name": "AMERICANAS"
     }
 ]
