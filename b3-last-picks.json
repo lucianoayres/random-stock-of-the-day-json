@@ -806,5 +806,9 @@
     {
         "ticker": "AMER",
         "name": "AMERICANAS"
+    },
+    {
+        "ticker": "ALPK",
+        "name": "ESTAPAR"
     }
 ]
