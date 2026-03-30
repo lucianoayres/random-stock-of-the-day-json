@@ -814,5 +814,9 @@
     {
         "ticker": "PRIO",
         "name": "PETRORIO"
+    },
+    {
+        "ticker": "NEMO",
+        "name": "SUZANO HOLD"
     }
 ]
