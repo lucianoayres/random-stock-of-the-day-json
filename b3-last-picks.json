@@ -818,5 +818,9 @@
     {
         "ticker": "NEMO",
         "name": "SUZANO HOLD"
+    },
+    {
+        "ticker": "SMFT",
+        "name": "SMART FIT"
     }
 ]
