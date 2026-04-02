@@ -826,5 +826,9 @@
     {
         "ticker": "MLAS",
         "name": "MULTILASER"
+    },
+    {
+        "ticker": "GEPA",
+        "name": "GER PARANAP"
     }
 ]
