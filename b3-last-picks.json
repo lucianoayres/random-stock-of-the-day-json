@@ -830,5 +830,9 @@
     {
         "ticker": "GEPA",
         "name": "GER PARANAP"
+    },
+    {
+        "ticker": "CESP",
+        "name": "CESP"
     }
 ]
