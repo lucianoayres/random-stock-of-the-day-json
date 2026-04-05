@@ -838,5 +838,9 @@
     {
         "ticker": "MSPA",
         "name": "MELHOR SP"
+    },
+    {
+        "ticker": "SRNA",
+        "name": "SERENA"
     }
 ]
