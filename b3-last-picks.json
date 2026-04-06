@@ -842,5 +842,9 @@
     {
         "ticker": "SRNA",
         "name": "SERENA"
+    },
+    {
+        "ticker": "OIBR",
+        "name": "OI"
     }
 ]
