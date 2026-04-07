@@ -846,5 +846,9 @@
     {
         "ticker": "OIBR",
         "name": "OI"
+    },
+    {
+        "ticker": "CEBR",
+        "name": "CEB"
     }
 ]
