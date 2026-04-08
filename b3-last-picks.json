@@ -850,5 +850,9 @@
     {
         "ticker": "CEBR",
         "name": "CEB"
+    },
+    {
+        "ticker": "TRAD",
+        "name": "TC"
     }
 ]
