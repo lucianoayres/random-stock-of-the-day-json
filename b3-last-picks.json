@@ -854,5 +854,9 @@
     {
         "ticker": "TRAD",
         "name": "TC"
+    },
+    {
+        "ticker": "ITUB",
+        "name": "ITAUUNIBANCO"
     }
 ]
