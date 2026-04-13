@@ -870,5 +870,9 @@
     {
         "ticker": "TASA",
         "name": "TAURUS ARMAS"
+    },
+    {
+        "ticker": "OPHE",
+        "name": "OPPORT ENERG"
     }
 ]
