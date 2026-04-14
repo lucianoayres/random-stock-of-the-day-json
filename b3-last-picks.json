@@ -874,5 +874,9 @@
     {
         "ticker": "OPHE",
         "name": "OPPORT ENERG"
+    },
+    {
+        "ticker": "BHIA",
+        "name": "CASAS BAHIA"
     }
 ]
