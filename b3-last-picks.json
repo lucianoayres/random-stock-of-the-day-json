@@ -882,5 +882,9 @@
     {
         "ticker": "PPAR",
         "name": "POLPAR"
+    },
+    {
+        "ticker": "TUPY",
+        "name": "TUPY"
     }
 ]
