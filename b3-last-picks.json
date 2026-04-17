@@ -886,5 +886,9 @@
     {
         "ticker": "TUPY",
         "name": "TUPY"
+    },
+    {
+        "ticker": "MOVI",
+        "name": "MOVIDA"
     }
 ]
