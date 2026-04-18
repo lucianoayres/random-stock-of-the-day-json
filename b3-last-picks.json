@@ -890,5 +890,9 @@
     {
         "ticker": "MOVI",
         "name": "MOVIDA"
+    },
+    {
+        "ticker": "MMAQ",
+        "name": "MINASMAQUINA"
     }
 ]
