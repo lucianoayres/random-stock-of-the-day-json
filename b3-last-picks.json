@@ -902,5 +902,9 @@
     {
         "ticker": "MILS",
         "name": "MILLS"
+    },
+    {
+        "ticker": "MTRE",
+        "name": "MITRE REALTY"
     }
 ]
