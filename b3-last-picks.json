@@ -906,5 +906,9 @@
     {
         "ticker": "MTRE",
         "name": "MITRE REALTY"
+    },
+    {
+        "ticker": "JPSA",
+        "name": "IGUATEMI S.A"
     }
 ]
