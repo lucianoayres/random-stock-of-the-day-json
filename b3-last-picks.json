@@ -910,5 +910,9 @@
     {
         "ticker": "JPSA",
         "name": "IGUATEMI S.A"
+    },
+    {
+        "ticker": "SIMH",
+        "name": "SIMPAR"
     }
 ]
