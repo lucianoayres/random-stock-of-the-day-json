@@ -914,5 +914,9 @@
     {
         "ticker": "SIMH",
         "name": "SIMPAR"
+    },
+    {
+        "ticker": "ENMA",
+        "name": "EQTLMARANHAO"
     }
 ]
