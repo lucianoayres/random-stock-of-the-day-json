@@ -918,5 +918,9 @@
     {
         "ticker": "ENMA",
         "name": "EQTLMARANHAO"
+    },
+    {
+        "ticker": "MNPR",
+        "name": "MINUPAR"
     }
 ]
