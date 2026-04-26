@@ -922,5 +922,9 @@
     {
         "ticker": "MNPR",
         "name": "MINUPAR"
+    },
+    {
+        "ticker": "TEGA",
+        "name": "TEGRA INCORP"
     }
 ]
