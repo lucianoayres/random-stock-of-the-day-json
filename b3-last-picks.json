@@ -926,5 +926,9 @@
     {
         "ticker": "TEGA",
         "name": "TEGRA INCORP"
+    },
+    {
+        "ticker": "CACO",
+        "name": "CACONDE PART"
     }
 ]
