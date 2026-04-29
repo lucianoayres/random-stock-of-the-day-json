@@ -934,5 +934,9 @@
     {
         "ticker": "IVPR",
         "name": "INVEPAR"
+    },
+    {
+        "ticker": "ATOM",
+        "name": "ATOMPAR"
     }
 ]
