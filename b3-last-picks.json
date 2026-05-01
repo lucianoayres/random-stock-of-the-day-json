@@ -942,5 +942,9 @@
     {
         "ticker": "SBSP",
         "name": "SABESP"
+    },
+    {
+        "ticker": "TCNO",
+        "name": "TECNOSOLO"
     }
 ]
