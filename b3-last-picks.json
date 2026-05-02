@@ -946,5 +946,9 @@
     {
         "ticker": "TCNO",
         "name": "TECNOSOLO"
+    },
+    {
+        "ticker": "BRBI",
+        "name": "BR PARTNERS"
     }
 ]
