@@ -950,5 +950,9 @@
     {
         "ticker": "BRBI",
         "name": "BR PARTNERS"
+    },
+    {
+        "ticker": "LUPA",
+        "name": "LUPATECH"
     }
 ]
