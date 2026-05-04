@@ -954,5 +954,9 @@
     {
         "ticker": "LUPA",
         "name": "LUPATECH"
+    },
+    {
+        "ticker": "TFCO",
+        "name": "TRACK FIELD"
     }
 ]
