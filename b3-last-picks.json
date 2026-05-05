@@ -958,5 +958,9 @@
     {
         "ticker": "TFCO",
         "name": "TRACK FIELD"
+    },
+    {
+        "ticker": "LAVV",
+        "name": "LAVVI"
     }
 ]
