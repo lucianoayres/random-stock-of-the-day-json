@@ -966,5 +966,9 @@
     {
         "ticker": "UCAS",
         "name": "UNICASA"
+    },
+    {
+        "ticker": "SYNE",
+        "name": "SYN PROP TEC"
     }
 ]
