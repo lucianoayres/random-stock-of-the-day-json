@@ -970,5 +970,9 @@
     {
         "ticker": "SYNE",
         "name": "SYN PROP TEC"
+    },
+    {
+        "ticker": "BBRK",
+        "name": "NEXPE"
     }
 ]
