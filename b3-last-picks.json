@@ -978,5 +978,9 @@
     {
         "ticker": "PNVL",
         "name": "DIMED"
+    },
+    {
+        "ticker": "NTCO",
+        "name": "GRUPO NATURA"
     }
 ]
