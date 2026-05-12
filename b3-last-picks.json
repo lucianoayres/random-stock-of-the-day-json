@@ -986,5 +986,9 @@
     {
         "ticker": "DTCY",
         "name": "DTCOM-DIRECT"
+    },
+    {
+        "ticker": "TIMS",
+        "name": "TIM"
     }
 ]
