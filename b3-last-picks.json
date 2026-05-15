@@ -998,5 +998,9 @@
     {
         "ticker": "AFLT",
         "name": "AFLUENTE T"
+    },
+    {
+        "ticker": "CRPG",
+        "name": "CRISTAL"
     }
 ]
