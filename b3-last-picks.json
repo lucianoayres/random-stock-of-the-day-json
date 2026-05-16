@@ -1002,5 +1002,9 @@
     {
         "ticker": "CRPG",
         "name": "CRISTAL"
+    },
+    {
+        "ticker": "BMGB",
+        "name": "BANCO BMG"
     }
 ]
