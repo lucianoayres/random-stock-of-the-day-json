@@ -1006,5 +1006,9 @@
     {
         "ticker": "BMGB",
         "name": "BANCO BMG"
+    },
+    {
+        "ticker": "TOTS",
+        "name": "TOTVS"
     }
 ]
