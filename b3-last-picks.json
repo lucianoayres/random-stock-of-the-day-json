@@ -1014,5 +1014,9 @@
     {
         "ticker": "EQPA",
         "name": "EQTL PARA"
+    },
+    {
+        "ticker": "BPAR",
+        "name": "BANPARA"
     }
 ]
