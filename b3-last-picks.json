@@ -1026,5 +1026,9 @@
     {
         "ticker": "CEEB",
         "name": "COELBA"
+    },
+    {
+        "ticker": "EUCA",
+        "name": "EUCATEX"
     }
 ]
