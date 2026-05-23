@@ -1030,5 +1030,9 @@
     {
         "ticker": "EUCA",
         "name": "EUCATEX"
+    },
+    {
+        "ticker": "CTNM",
+        "name": "COTEMINAS"
     }
 ]
