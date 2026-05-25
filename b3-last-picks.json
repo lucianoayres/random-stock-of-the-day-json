@@ -1038,5 +1038,9 @@
     {
         "ticker": "PINE",
         "name": "PINE"
+    },
+    {
+        "ticker": "GPAR",
+        "name": "CELGPAR"
     }
 ]
