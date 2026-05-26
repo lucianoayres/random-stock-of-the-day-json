@@ -1042,5 +1042,9 @@
     {
         "ticker": "GPAR",
         "name": "CELGPAR"
+    },
+    {
+        "ticker": "RSUL",
+        "name": "RIOSULENSE"
     }
 ]
