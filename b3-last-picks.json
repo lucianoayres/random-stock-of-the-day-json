@@ -1046,5 +1046,9 @@
     {
         "ticker": "RSUL",
         "name": "RIOSULENSE"
+    },
+    {
+        "ticker": "DEXP",
+        "name": "DEXXOS PAR"
     }
 ]
