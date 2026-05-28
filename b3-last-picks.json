@@ -1050,5 +1050,9 @@
     {
         "ticker": "DEXP",
         "name": "DEXXOS PAR"
+    },
+    {
+        "ticker": "IGBR",
+        "name": "IGB S/A"
     }
 ]
