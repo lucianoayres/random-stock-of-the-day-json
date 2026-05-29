@@ -1054,5 +1054,9 @@
     {
         "ticker": "IGBR",
         "name": "IGB S/A"
+    },
+    {
+        "ticker": "CMIG",
+        "name": "CEMIG"
     }
 ]
