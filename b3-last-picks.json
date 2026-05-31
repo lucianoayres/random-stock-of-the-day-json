@@ -1062,5 +1062,9 @@
     {
         "ticker": "GETT",
         "name": "GETNET BR"
+    },
+    {
+        "ticker": "LWSA",
+        "name": "LWSA"
     }
 ]
