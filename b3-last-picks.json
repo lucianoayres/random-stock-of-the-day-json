@@ -1066,5 +1066,9 @@
     {
         "ticker": "LWSA",
         "name": "LWSA"
+    },
+    {
+        "ticker": "VLID",
+        "name": "VALID"
     }
 ]
