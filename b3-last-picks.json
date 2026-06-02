@@ -1070,5 +1070,9 @@
     {
         "ticker": "VLID",
         "name": "VALID"
+    },
+    {
+        "ticker": "NINJ",
+        "name": "GETNINJAS"
     }
 ]
