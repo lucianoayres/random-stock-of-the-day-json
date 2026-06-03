@@ -1074,5 +1074,9 @@
     {
         "ticker": "NINJ",
         "name": "GETNINJAS"
+    },
+    {
+        "ticker": "DOTZ",
+        "name": "DOTZ SA"
     }
 ]
