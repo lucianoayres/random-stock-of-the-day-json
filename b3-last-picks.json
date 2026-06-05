@@ -1082,5 +1082,9 @@
     {
         "ticker": "NRTQ",
         "name": "NORTCQUIMICA"
+    },
+    {
+        "ticker": "ONCO",
+        "name": "ONCOCLINICAS"
     }
 ]
