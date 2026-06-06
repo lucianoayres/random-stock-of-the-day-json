@@ -1086,5 +1086,9 @@
     {
         "ticker": "ONCO",
         "name": "ONCOCLINICAS"
+    },
+    {
+        "ticker": "SLED",
+        "name": "SARAIVA LIVR"
     }
 ]
