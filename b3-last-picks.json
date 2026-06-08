@@ -1094,5 +1094,9 @@
     {
         "ticker": "MGEL",
         "name": "MANGELS INDL"
+    },
+    {
+        "ticker": "PLAS",
+        "name": "PLASCAR PART"
     }
 ]
