@@ -1098,5 +1098,9 @@
     {
         "ticker": "PLAS",
         "name": "PLASCAR PART"
+    },
+    {
+        "ticker": "GGBR",
+        "name": "GERDAU"
     }
 ]
