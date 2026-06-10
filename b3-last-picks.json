@@ -1102,5 +1102,9 @@
     {
         "ticker": "GGBR",
         "name": "GERDAU"
+    },
+    {
+        "ticker": "MEAL",
+        "name": "IMC S/A"
     }
 ]
