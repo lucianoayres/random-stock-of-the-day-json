@@ -1106,5 +1106,9 @@
     {
         "ticker": "MEAL",
         "name": "IMC S/A"
+    },
+    {
+        "ticker": "WEST",
+        "name": "WESTWING"
     }
 ]
