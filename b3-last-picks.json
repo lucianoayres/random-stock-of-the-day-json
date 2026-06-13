@@ -1114,5 +1114,9 @@
     {
         "ticker": "LIGT",
         "name": "LIGHT S/A"
+    },
+    {
+        "ticker": "RAIZ",
+        "name": "RAIZEN"
     }
 ]
