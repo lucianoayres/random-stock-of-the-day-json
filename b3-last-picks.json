@@ -1130,5 +1130,9 @@
     {
         "ticker": "HOOT",
         "name": "HOTEIS OTHON"
+    },
+    {
+        "ticker": "PMAM",
+        "name": "PARANAPANEMA"
     }
 ]
