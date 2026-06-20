@@ -1142,5 +1142,9 @@
     {
         "ticker": "BRPR",
         "name": "BR PROPERT"
+    },
+    {
+        "ticker": "GOAU",
+        "name": "GERDAU MET"
     }
 ]
