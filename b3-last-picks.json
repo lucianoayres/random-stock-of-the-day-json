@@ -1150,5 +1150,9 @@
     {
         "ticker": "MEND",
         "name": "MENDES JR"
+    },
+    {
+        "ticker": "MSRO",
+        "name": "MAESTROLOC"
     }
 ]
