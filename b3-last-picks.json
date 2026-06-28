@@ -1174,5 +1174,9 @@
     {
         "ticker": "MULT",
         "name": "MULTIPLAN"
+    },
+    {
+        "ticker": "CVCB",
+        "name": "CVC BRASIL"
     }
 ]
