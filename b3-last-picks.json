@@ -1178,5 +1178,9 @@
     {
         "ticker": "CVCB",
         "name": "CVC BRASIL"
+    },
+    {
+        "ticker": "JOPA",
+        "name": "JOSAPAR"
     }
 ]
