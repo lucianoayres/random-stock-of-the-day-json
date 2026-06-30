@@ -1182,5 +1182,9 @@
     {
         "ticker": "JOPA",
         "name": "JOSAPAR"
+    },
+    {
+        "ticker": "APTI",
+        "name": "ALIPERTI"
     }
 ]
