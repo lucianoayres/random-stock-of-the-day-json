@@ -1186,5 +1186,9 @@
     {
         "ticker": "APTI",
         "name": "ALIPERTI"
+    },
+    {
+        "ticker": "NORD",
+        "name": "NORDON MET"
     }
 ]
