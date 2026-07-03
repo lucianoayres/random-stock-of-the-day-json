@@ -1194,5 +1194,9 @@
     {
         "ticker": "DOHL",
         "name": "DOHLER"
+    },
+    {
+        "ticker": "CURY",
+        "name": "CURY S/A"
     }
 ]
