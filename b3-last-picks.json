@@ -1202,5 +1202,9 @@
     {
         "ticker": "JBSS",
         "name": "JBS"
+    },
+    {
+        "ticker": "SLCE",
+        "name": "SLC AGRICOLA"
     }
 ]
