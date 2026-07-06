@@ -1206,5 +1206,9 @@
     {
         "ticker": "SLCE",
         "name": "SLC AGRICOLA"
+    },
+    {
+        "ticker": "KEPL",
+        "name": "KEPLER WEBER"
     }
 ]
