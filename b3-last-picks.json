@@ -1210,5 +1210,9 @@
     {
         "ticker": "KEPL",
         "name": "KEPLER WEBER"
+    },
+    {
+        "ticker": "SOMA",
+        "name": "GRUPO SOMA"
     }
 ]
