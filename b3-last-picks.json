@@ -1214,5 +1214,9 @@
     {
         "ticker": "SOMA",
         "name": "GRUPO SOMA"
+    },
+    {
+        "ticker": "QUAL",
+        "name": "QUALICORP"
     }
 ]
