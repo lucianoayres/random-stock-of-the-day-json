@@ -1218,5 +1218,9 @@
     {
         "ticker": "QUAL",
         "name": "QUALICORP"
+    },
+    {
+        "ticker": "RSID",
+        "name": "ROSSI RESID"
     }
 ]
