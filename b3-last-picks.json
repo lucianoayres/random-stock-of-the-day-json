@@ -1222,5 +1222,9 @@
     {
         "ticker": "RSID",
         "name": "ROSSI RESID"
+    },
+    {
+        "ticker": "ANIM",
+        "name": "ANIMA"
     }
 ]
