@@ -1226,5 +1226,9 @@
     {
         "ticker": "ANIM",
         "name": "ANIMA"
+    },
+    {
+        "ticker": "TAEE",
+        "name": "TAESA"
     }
 ]
