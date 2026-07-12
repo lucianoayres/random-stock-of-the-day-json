@@ -1230,5 +1230,9 @@
     {
         "ticker": "TAEE",
         "name": "TAESA"
+    },
+    {
+        "ticker": "OPCT",
+        "name": "OCEANPACT"
     }
 ]
