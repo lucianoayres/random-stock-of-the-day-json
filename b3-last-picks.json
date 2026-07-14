@@ -1238,5 +1238,9 @@
     {
         "ticker": "SANB",
         "name": "SANTANDER BR"
+    },
+    {
+        "ticker": "TPIS",
+        "name": "TRIUNFO PART"
     }
 ]
