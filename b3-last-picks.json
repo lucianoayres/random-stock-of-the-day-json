@@ -1242,5 +1242,9 @@
     {
         "ticker": "TPIS",
         "name": "TRIUNFO PART"
+    },
+    {
+        "ticker": "BLAU",
+        "name": "BLAU"
     }
 ]
