@@ -1254,5 +1254,9 @@
     {
         "ticker": "SBFG",
         "name": "GRUPO SBF"
+    },
+    {
+        "ticker": "PETR",
+        "name": "PETROBRAS"
     }
 ]
