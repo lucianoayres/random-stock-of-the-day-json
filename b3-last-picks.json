@@ -1262,5 +1262,9 @@
     {
         "ticker": "BSLI",
         "name": "BRB BANCO"
+    },
+    {
+        "ticker": "MRFG",
+        "name": "MARFRIG"
     }
 ]
