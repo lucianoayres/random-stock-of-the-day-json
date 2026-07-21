@@ -1266,5 +1266,9 @@
     {
         "ticker": "MRFG",
         "name": "MARFRIG"
+    },
+    {
+        "ticker": "BRGE",
+        "name": "ALFA CONSORC"
     }
 ]
