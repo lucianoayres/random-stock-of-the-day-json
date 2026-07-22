@@ -1270,5 +1270,9 @@
     {
         "ticker": "BRGE",
         "name": "ALFA CONSORC"
+    },
+    {
+        "ticker": "BPAC",
+        "name": "BTGP BANCO"
     }
 ]
