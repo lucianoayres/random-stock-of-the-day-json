@@ -1274,5 +1274,9 @@
     {
         "ticker": "BPAC",
         "name": "BTGP BANCO"
+    },
+    {
+        "ticker": "COGN",
+        "name": "COGNA ON"
     }
 ]
