@@ -1282,5 +1282,9 @@
     {
         "ticker": "CTSA",
         "name": "SANTANENSE"
+    },
+    {
+        "ticker": "SCAR",
+        "name": "SAO CARLOS"
     }
 ]
