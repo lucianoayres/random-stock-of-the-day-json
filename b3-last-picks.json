@@ -1286,5 +1286,9 @@
     {
         "ticker": "SCAR",
         "name": "SAO CARLOS"
+    },
+    {
+        "ticker": "AURE",
+        "name": "AUREN"
     }
 ]
