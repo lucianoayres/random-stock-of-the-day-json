@@ -1290,5 +1290,9 @@
     {
         "ticker": "AURE",
         "name": "AUREN"
+    },
+    {
+        "ticker": "CBAV",
+        "name": "CBA"
     }
 ]
