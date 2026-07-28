@@ -1294,5 +1294,9 @@
     {
         "ticker": "CBAV",
         "name": "CBA"
+    },
+    {
+        "ticker": "ENEV",
+        "name": "ENEVA"
     }
 ]
