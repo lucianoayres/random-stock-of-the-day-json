@@ -1302,5 +1302,9 @@
     {
         "ticker": "HYPE",
         "name": "HYPERA"
+    },
+    {
+        "ticker": "CASH",
+        "name": "MELIUZ"
     }
 ]
