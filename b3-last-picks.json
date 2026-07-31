@@ -1306,5 +1306,9 @@
     {
         "ticker": "CASH",
         "name": "MELIUZ"
+    },
+    {
+        "ticker": "DMVF",
+        "name": "D1000VFARMA"
     }
 ]
