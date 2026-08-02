@@ -1314,5 +1314,9 @@
     {
         "ticker": "MODL",
         "name": "MODALMAIS"
+    },
+    {
+        "ticker": "PPLA",
+        "name": "PPLA"
     }
 ]
