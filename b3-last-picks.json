@@ -1322,5 +1322,9 @@
     {
         "ticker": "PORT",
         "name": "WILSON SONS"
+    },
+    {
+        "ticker": "CEGR",
+        "name": "CEG"
     }
 ]
