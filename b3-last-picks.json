@@ -1326,5 +1326,9 @@
     {
         "ticker": "CEGR",
         "name": "CEG"
+    },
+    {
+        "ticker": "BBAS",
+        "name": "BRASIL"
     }
 ]
