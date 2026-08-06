@@ -1330,5 +1330,9 @@
     {
         "ticker": "BBAS",
         "name": "BRASIL"
+    },
+    {
+        "ticker": "MTIG",
+        "name": "METAL IGUACU"
     }
 ]
