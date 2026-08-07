@@ -1334,5 +1334,9 @@
     {
         "ticker": "MTIG",
         "name": "METAL IGUACU"
+    },
+    {
+        "ticker": "WLMM",
+        "name": "WLM IND COM"
     }
 ]
