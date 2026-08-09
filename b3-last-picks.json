@@ -1342,5 +1342,9 @@
     {
         "ticker": "MTSA",
         "name": "METISA"
+    },
+    {
+        "ticker": "BOAS",
+        "name": "BOA VISTA"
     }
 ]
