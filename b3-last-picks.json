@@ -1350,5 +1350,9 @@
     {
         "ticker": "FRTA",
         "name": "POMIFRUTAS"
+    },
+    {
+        "ticker": "ORVR",
+        "name": "ORIZON"
     }
 ]
