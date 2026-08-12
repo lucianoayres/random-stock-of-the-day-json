@@ -1354,5 +1354,9 @@
     {
         "ticker": "ORVR",
         "name": "ORIZON"
+    },
+    {
+        "ticker": "CORR",
+        "name": "COR RIBEIRO"
     }
 ]
