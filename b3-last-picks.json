@@ -1370,5 +1370,9 @@
     {
         "ticker": "CLSA",
         "name": "CLEARSALE"
+    },
+    {
+        "ticker": "ZAMP",
+        "name": "ZAMP S.A."
     }
 ]
