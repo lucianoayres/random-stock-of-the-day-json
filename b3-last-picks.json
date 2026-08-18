@@ -1378,5 +1378,9 @@
     {
         "ticker": "FRIO",
         "name": "METALFRIO"
+    },
+    {
+        "ticker": "WHRL",
+        "name": "WHIRLPOOL"
     }
 ]
