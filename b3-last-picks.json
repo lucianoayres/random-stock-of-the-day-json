@@ -1390,5 +1390,9 @@
     {
         "ticker": "SHOW",
         "name": "TIME FOR FUN"
+    },
+    {
+        "ticker": "APER",
+        "name": "ALPER S.A."
     }
 ]
