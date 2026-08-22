@@ -1394,5 +1394,9 @@
     {
         "ticker": "APER",
         "name": "ALPER S.A."
+    },
+    {
+        "ticker": "BRSR",
+        "name": "BANRISUL"
     }
 ]
