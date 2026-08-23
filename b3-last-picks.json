@@ -1398,5 +1398,9 @@
     {
         "ticker": "BRSR",
         "name": "BANRISUL"
+    },
+    {
+        "ticker": "STKF",
+        "name": "STATKRAFT"
     }
 ]
