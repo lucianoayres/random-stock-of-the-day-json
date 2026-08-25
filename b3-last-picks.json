@@ -1406,5 +1406,9 @@
     {
         "ticker": "TESA",
         "name": "TERRA SANTA"
+    },
+    {
+        "ticker": "VIVT",
+        "name": "TELEF BRASIL"
     }
 ]
