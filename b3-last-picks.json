@@ -1410,5 +1410,9 @@
     {
         "ticker": "VIVT",
         "name": "TELEF BRASIL"
+    },
+    {
+        "ticker": "DXCO",
+        "name": "DEXCO"
     }
 ]
