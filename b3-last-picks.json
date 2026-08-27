@@ -1414,5 +1414,9 @@
     {
         "ticker": "DXCO",
         "name": "DEXCO"
+    },
+    {
+        "ticker": "CATA",
+        "name": "IND CATAGUAS"
     }
 ]
