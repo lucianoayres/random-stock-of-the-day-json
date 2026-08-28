@@ -1418,5 +1418,9 @@
     {
         "ticker": "CATA",
         "name": "IND CATAGUAS"
+    },
+    {
+        "ticker": "CAML",
+        "name": "CAMIL"
     }
 ]
