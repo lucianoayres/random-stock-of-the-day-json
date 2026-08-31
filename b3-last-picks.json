@@ -1430,5 +1430,9 @@
     {
         "ticker": "EMAE",
         "name": "EMAE"
+    },
+    {
+        "ticker": "GPIV",
+        "name": "GP INVEST"
     }
 ]
