@@ -1434,5 +1434,9 @@
     {
         "ticker": "GPIV",
         "name": "GP INVEST"
+    },
+    {
+        "ticker": "ENGI",
+        "name": "ENERGISA"
     }
 ]
