@@ -1454,5 +1454,9 @@
     {
         "ticker": "QUSW",
         "name": "QUALITY SOFT"
+    },
+    {
+        "ticker": "NGRD",
+        "name": "NEOGRID"
     }
 ]
