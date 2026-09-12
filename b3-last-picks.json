@@ -1478,5 +1478,9 @@
     {
         "ticker": "HAPV",
         "name": "HAPVIDA"
+    },
+    {
+        "ticker": "ROMI",
+        "name": "ROMI"
     }
 ]
