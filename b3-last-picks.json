@@ -1482,5 +1482,9 @@
     {
         "ticker": "ROMI",
         "name": "ROMI"
+    },
+    {
+        "ticker": "EZTC",
+        "name": "EZTEC"
     }
 ]
