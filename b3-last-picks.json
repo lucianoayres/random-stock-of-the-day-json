@@ -1490,5 +1490,9 @@
     {
         "ticker": "JFEN",
         "name": "JOAO FORTES"
+    },
+    {
+        "ticker": "FHER",
+        "name": "FER HERINGER"
     }
 ]
