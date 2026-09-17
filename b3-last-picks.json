@@ -1498,5 +1498,9 @@
     {
         "ticker": "ARZZ",
         "name": "AREZZO CO"
+    },
+    {
+        "ticker": "PDGR",
+        "name": "PDG REALT"
     }
 ]
