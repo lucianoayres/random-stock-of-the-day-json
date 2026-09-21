@@ -1514,5 +1514,9 @@
     {
         "ticker": "ABEV",
         "name": "AMBEV S/A"
+    },
+    {
+        "ticker": "BBDC",
+        "name": "BRADESCO"
     }
 ]
