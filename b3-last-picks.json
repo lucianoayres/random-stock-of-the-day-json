@@ -1518,5 +1518,9 @@
     {
         "ticker": "BBDC",
         "name": "BRADESCO"
+    },
+    {
+        "ticker": "BEEF",
+        "name": "MINERVA"
     }
 ]
