@@ -1522,5 +1522,9 @@
     {
         "ticker": "BEEF",
         "name": "MINERVA"
+    },
+    {
+        "ticker": "INTB",
+        "name": "INTELBRAS"
     }
 ]
