@@ -1526,5 +1526,9 @@
     {
         "ticker": "INTB",
         "name": "INTELBRAS"
+    },
+    {
+        "ticker": "RAPT",
+        "name": "RANDON PART"
     }
 ]
