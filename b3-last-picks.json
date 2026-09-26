@@ -1534,5 +1534,9 @@
     {
         "ticker": "HBTS",
         "name": "HABITASUL"
+    },
+    {
+        "ticker": "PDTC",
+        "name": "PADTEC"
     }
 ]
