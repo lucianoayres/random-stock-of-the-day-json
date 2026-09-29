@@ -1546,5 +1546,9 @@
     {
         "ticker": "VAMO",
         "name": "VAMOS"
+    },
+    {
+        "ticker": "RCSL",
+        "name": "RECRUSUL"
     }
 ]
