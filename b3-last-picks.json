@@ -1550,5 +1550,9 @@
     {
         "ticker": "RCSL",
         "name": "RECRUSUL"
+    },
+    {
+        "ticker": "TEND",
+        "name": "TENDA"
     }
 ]
