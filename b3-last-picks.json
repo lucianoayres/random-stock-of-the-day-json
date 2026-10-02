@@ -1558,5 +1558,9 @@
     {
         "ticker": "ELMD",
         "name": "ELETROMIDIA"
+    },
+    {
+        "ticker": "CIEL",
+        "name": "CIELO"
     }
 ]
