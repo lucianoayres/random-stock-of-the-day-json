@@ -1566,5 +1566,9 @@
     {
         "ticker": "EALT",
         "name": "ACO ALTONA"
+    },
+    {
+        "ticker": "CMSA",
+        "name": "CIMS"
     }
 ]
