@@ -1574,5 +1574,9 @@
     {
         "ticker": "CAMB",
         "name": "CAMBUCI"
+    },
+    {
+        "ticker": "CPFE",
+        "name": "CPFL ENERGIA"
     }
 ]
