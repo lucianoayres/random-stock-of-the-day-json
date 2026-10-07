@@ -1578,5 +1578,9 @@
     {
         "ticker": "CPFE",
         "name": "CPFL ENERGIA"
+    },
+    {
+        "ticker": "VULC",
+        "name": "VULCABRAS"
     }
 ]
