@@ -6,5 +6,9 @@
     {
         "ticker": "PTBL",
         "name": "PORTOBELLO"
+    },
+    {
+        "ticker": "STKF",
+        "name": "STATKRAFT"
     }
 ]
