@@ -14,5 +14,9 @@
     {
         "ticker": "PRNR",
         "name": "PRINER"
+    },
+    {
+        "ticker": "BBDC",
+        "name": "BRADESCO"
     }
 ]
