@@ -22,5 +22,9 @@
     {
         "ticker": "HBTS",
         "name": "HABITASUL"
+    },
+    {
+        "ticker": "LWSA",
+        "name": "LWSA"
     }
 ]
