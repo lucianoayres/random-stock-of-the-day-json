@@ -26,5 +26,9 @@
     {
         "ticker": "LWSA",
         "name": "LWSA"
+    },
+    {
+        "ticker": "ALUP",
+        "name": "ALUPAR"
     }
 ]
