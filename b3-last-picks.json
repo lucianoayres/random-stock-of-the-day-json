@@ -38,5 +38,9 @@
     {
         "ticker": "SYNE",
         "name": "SYN PROP TEC"
+    },
+    {
+        "ticker": "CACO",
+        "name": "CACONDE PART"
     }
 ]
