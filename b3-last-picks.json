@@ -42,5 +42,9 @@
     {
         "ticker": "CACO",
         "name": "CACONDE PART"
+    },
+    {
+        "ticker": "VSPT",
+        "name": "FER C ATLANT"
     }
 ]
