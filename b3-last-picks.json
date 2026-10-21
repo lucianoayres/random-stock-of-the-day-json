@@ -50,5 +50,9 @@
     {
         "ticker": "HBSA",
         "name": "HIDROVIAS"
+    },
+    {
+        "ticker": "LREN",
+        "name": "LOJAS RENNER"
     }
 ]
