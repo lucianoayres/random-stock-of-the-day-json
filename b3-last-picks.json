@@ -62,5 +62,9 @@
     {
         "ticker": "BPAN",
         "name": "BANCO PAN"
+    },
+    {
+        "ticker": "SOMA",
+        "name": "GRUPO SOMA"
     }
 ]
