@@ -66,5 +66,9 @@
     {
         "ticker": "SOMA",
         "name": "GRUPO SOMA"
+    },
+    {
+        "ticker": "B3SA",
+        "name": "B3"
     }
 ]
