@@ -70,5 +70,9 @@
     {
         "ticker": "B3SA",
         "name": "B3"
+    },
+    {
+        "ticker": "CSAN",
+        "name": "COSAN"
     }
 ]
