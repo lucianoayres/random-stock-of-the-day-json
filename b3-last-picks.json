@@ -74,5 +74,9 @@
     {
         "ticker": "CSAN",
         "name": "COSAN"
+    },
+    {
+        "ticker": "TEGA",
+        "name": "TEGRA INCORP"
     }
 ]
