@@ -82,5 +82,9 @@
     {
         "ticker": "MODL",
         "name": "MODALMAIS"
+    },
+    {
+        "ticker": "IFCM",
+        "name": "INFRACOMM"
     }
 ]
