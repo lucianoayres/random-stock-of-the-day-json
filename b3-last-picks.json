@@ -90,5 +90,9 @@
     {
         "ticker": "SQIA",
         "name": "SINQIA"
+    },
+    {
+        "ticker": "BRGE",
+        "name": "ALFA CONSORC"
     }
 ]
