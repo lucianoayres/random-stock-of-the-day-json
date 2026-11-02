@@ -98,5 +98,9 @@
     {
         "ticker": "MRSA",
         "name": "MRS LOGIST"
+    },
+    {
+        "ticker": "FESA",
+        "name": "FERBASA"
     }
 ]
