@@ -106,5 +106,9 @@
     {
         "ticker": "BRIV",
         "name": "ALFA INVEST"
+    },
+    {
+        "ticker": "CLSC",
+        "name": "CELESC"
     }
 ]
