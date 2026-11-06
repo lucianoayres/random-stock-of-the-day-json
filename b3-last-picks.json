@@ -110,5 +110,9 @@
     {
         "ticker": "CLSC",
         "name": "CELESC"
+    },
+    {
+        "ticker": "POWE",
+        "name": "FOCUS ON"
     }
 ]
