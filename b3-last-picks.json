@@ -114,5 +114,9 @@
     {
         "ticker": "POWE",
         "name": "FOCUS ON"
+    },
+    {
+        "ticker": "SGPS",
+        "name": "SPRINGS"
     }
 ]
