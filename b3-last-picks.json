@@ -118,5 +118,9 @@
     {
         "ticker": "SGPS",
         "name": "SPRINGS"
+    },
+    {
+        "ticker": "SBSP",
+        "name": "SABESP"
     }
 ]
