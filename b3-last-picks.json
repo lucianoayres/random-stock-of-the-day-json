@@ -122,5 +122,9 @@
     {
         "ticker": "SBSP",
         "name": "SABESP"
+    },
+    {
+        "ticker": "JPSA",
+        "name": "IGUATEMI S.A"
     }
 ]
