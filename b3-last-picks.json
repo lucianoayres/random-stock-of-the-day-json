@@ -130,5 +130,9 @@
     {
         "ticker": "SEER",
         "name": "SER EDUCA"
+    },
+    {
+        "ticker": "CAMB",
+        "name": "CAMBUCI"
     }
 ]
