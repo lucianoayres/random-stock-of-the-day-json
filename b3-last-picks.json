@@ -138,5 +138,9 @@
     {
         "ticker": "IGBR",
         "name": "IGB S/A"
+    },
+    {
+        "ticker": "PORT",
+        "name": "WILSON SONS"
     }
 ]
