@@ -142,5 +142,9 @@
     {
         "ticker": "PORT",
         "name": "WILSON SONS"
+    },
+    {
+        "ticker": "DESK",
+        "name": "DESKTOP"
     }
 ]
