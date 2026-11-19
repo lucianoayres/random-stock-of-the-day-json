@@ -162,5 +162,9 @@
     {
         "ticker": "SUZB",
         "name": "SUZANO S.A."
+    },
+    {
+        "ticker": "PDGR",
+        "name": "PDG REALT"
     }
 ]
