@@ -166,5 +166,9 @@
     {
         "ticker": "PDGR",
         "name": "PDG REALT"
+    },
+    {
+        "ticker": "NINJ",
+        "name": "GETNINJAS"
     }
 ]
