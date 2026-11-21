@@ -170,5 +170,9 @@
     {
         "ticker": "NINJ",
         "name": "GETNINJAS"
+    },
+    {
+        "ticker": "MNDL",
+        "name": "MUNDIAL"
     }
 ]
