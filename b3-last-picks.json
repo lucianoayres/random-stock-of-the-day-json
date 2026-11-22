@@ -174,5 +174,9 @@
     {
         "ticker": "MNDL",
         "name": "MUNDIAL"
+    },
+    {
+        "ticker": "EVEN",
+        "name": "EVEN"
     }
 ]
