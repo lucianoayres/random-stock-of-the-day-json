@@ -178,5 +178,9 @@
     {
         "ticker": "EVEN",
         "name": "EVEN"
+    },
+    {
+        "ticker": "GOAU",
+        "name": "GERDAU MET"
     }
 ]
