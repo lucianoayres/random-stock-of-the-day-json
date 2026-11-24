@@ -182,5 +182,9 @@
     {
         "ticker": "GOAU",
         "name": "GERDAU MET"
+    },
+    {
+        "ticker": "OIBR",
+        "name": "OI"
     }
 ]
