@@ -190,5 +190,9 @@
     {
         "ticker": "OFSA",
         "name": "OUROFINO S/A"
+    },
+    {
+        "ticker": "VVEO",
+        "name": "VIVEO"
     }
 ]
