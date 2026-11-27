@@ -194,5 +194,9 @@
     {
         "ticker": "VVEO",
         "name": "VIVEO"
+    },
+    {
+        "ticker": "ZAMP",
+        "name": "ZAMP S.A."
     }
 ]
