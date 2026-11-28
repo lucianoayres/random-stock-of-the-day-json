@@ -198,5 +198,9 @@
     {
         "ticker": "ZAMP",
         "name": "ZAMP S.A."
+    },
+    {
+        "ticker": "PLAS",
+        "name": "PLASCAR PART"
     }
 ]
